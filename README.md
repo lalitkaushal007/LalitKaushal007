@@ -1,4 +1,4 @@
-<h2 align="center" style="color:#00F2FE; text-shadow: 0 0 10px #00F2FE, 0 0 20px #FF00F7;">══════════════ Hello there! 👋 I'm Lalit Kaushal ══════════════</h2>
+<h2 align="center" style="color:#00F2FE; text-shadow: 0 0 10px #00F2FE, 0 0 20px #FF00F7;">═══════════════ Hello there! 👋 I'm Lalit Kaushal ═══════════════</h2>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/{lalitkaushal007}/count.svg" alt=" 🚀 Visitor Count" width="180" height="24" />
