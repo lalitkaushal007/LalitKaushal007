@@ -68,4 +68,4 @@ My philosophy is simple — <b>understand deeply, build efficiently, and keep im
 
 ---
 
-<img src="https://github.com/lalitkaushal007/lalitkaushal007/blob/main/icons/header_.png" />
+<img src="https://github.com/lalitkaushal007/lalitkaushal007/blob/main/icons/header_.jpg" />
