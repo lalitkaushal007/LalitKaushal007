@@ -1,4 +1,4 @@
-<h2 align="center" style="color:#00F2FE; text-shadow: 0 0 10px #00F2FE, 0 0 20px #FF00F7;">Hello there! 👋 I'm Lalit Kaushal</h2>
+<h2 align="center" style="color:#00F2FE; text-shadow: 0 0 10px #00F2FE, 0 0 20px #FF00F7;">═════════════════════════════════════════════ Hello there! 👋 I'm Lalit Kaushal ═════════════════════════════════════════════</h2>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/{lalitkaushal007}/count.svg" alt=" 🚀 Visitor Count" width="180" height="24" />
@@ -129,9 +129,7 @@ My philosophy is simple — <b>understand deeply, build efficiently, and keep im
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-
-
-<img src="https://img.shields.io/badge/_______________________________________________________________________________________________________________________________________________________________________________________-008080.svg?style=flat&logoColor=#008080">
+<img src="https://img.shields.io/badge/════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-008080.svg?style=flat&logoColor=#008080">
 </div>
 
 ### 📊 GitHub Stats:
@@ -155,4 +153,4 @@ My philosophy is simple — <b>understand deeply, build efficiently, and keep im
 
 <img src="https://github.com/lalitkaushal007/lalitkaushal007/blob/main/header_.jpg" />
 
-<img src="https://img.shields.io/badge/════════════════════════════════════════════════════ThankYou_for_Visiting══════════════════════════════════════════════════-008080.svg?style=flat&logoColor=#008080">
+<img src="https://img.shields.io/badge/══════════════════════════════════════════════════════════════ThankYou_for_Visiting══════════════════════════════════════════════════════════-008080.svg?style=flat&logoColor=#008080">
