@@ -58,6 +58,8 @@ My philosophy is simple — <b>understand deeply, build efficiently, and keep im
 <a href="https://www.codechef.com/users/lalitkaushal007"><img src="https://img.shields.io/badge/CodeChef-5%20Star%20Rating-EC6814?style=for-the-badge&logo=codechef&logoColor=white"></a>
 </div>
 
+<img src="https://img.shields.io/badge/════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-008080.svg?style=flat&logoColor=#008080">
+
 <hr style="border: 0; height: 2px; background: linear-gradient(90deg, #00F2FE, #FF00F7); margin:30px 0;">
 
 <h3 style="color:#00F2FE; text-shadow:0 0 5px #00F2FE;">🎯 Learning & Goals</h3>
@@ -66,9 +68,11 @@ My philosophy is simple — <b>understand deeply, build efficiently, and keep im
 <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-Microsoft%20Cloud-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
 <a href="https://microservices.io/"><img src="https://img.shields.io/badge/Microservices-Architecture-FF6F61?style=for-the-badge"></a>
 <a href="https://github.com/lalitkaushal007"><img src="https://img.shields.io/badge/Open%20Source-Contributions-4ABF3D?style=for-the-badge&logo=github&logoColor=white"></a>
-  [![Mentoring](https://img.shields.io/badge/Mentoring-Junior%20Developers-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](#)  
+   
 
 </div>
+
+<img src="https://img.shields.io/badge/════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-008080.svg?style=flat&logoColor=#008080">
 
 <hr style="border: 0; height: 2px; background: linear-gradient(90deg, #FF00F7, #00F2FE); margin:30px 0;">
 
@@ -81,6 +85,8 @@ My philosophy is simple — <b>understand deeply, build efficiently, and keep im
 <a href="#"><img src="https://img.shields.io/badge/Traveling-Adventure-1E90FF?style=for-the-badge&logo=airbnb&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Music-Hobby-9400D3?style=for-the-badge&logo=spotify&logoColor=white"></a>
 </div>
+
+<img src="https://img.shields.io/badge/════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-008080.svg?style=flat&logoColor=#008080">
 
 <hr style="border: 0; height: 2px; background: linear-gradient(90deg, #00F2FE, #FF00F7); margin:30px 0;">
 
@@ -96,12 +102,13 @@ My philosophy is simple — <b>understand deeply, build efficiently, and keep im
 <a href="https://openai.com/research/whisper"><img src="https://img.shields.io/badge/Whisper-OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white"></a>
 </div>
 
+<img src="https://img.shields.io/badge/════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-008080.svg?style=flat&logoColor=#008080">
+
 <hr style="border: 0; height: 2px; background: linear-gradient(90deg, #FF00F7, #00F2FE); margin:30px 0;">
 
 <h3 style="color:#FF00F7; text-shadow:0 0 5px #FF00F7;">💻 Tech Stack</h3>
 <div style="display:flex; flex-wrap:wrap; gap:8px;">
-<!-- Add all your tech badges here -->
-<img src="https://img.shields.io/badge/════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-008080.svg?style=flat&logoColor=#008080">
+
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -147,3 +154,5 @@ My philosophy is simple — <b>understand deeply, build efficiently, and keep im
 
 
 <img src="https://github.com/lalitkaushal007/lalitkaushal007/blob/main/header_.jpg" />
+
+<img src="https://img.shields.io/badge/════════════════════════════════════════════════════ThankYou_for_Visiting══════════════════════════════════════════════════-008080.svg?style=flat&logoColor=#008080">
