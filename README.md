@@ -38,19 +38,19 @@ My philosophy is simple — <b>understand deeply, build efficiently, and keep im
 
 
 ### 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-%230078D4.svg?style=flat&logo=.net&logoColor=white)
-![ADO.NET](https://img.shields.io/badge/ADO.NET-%235C2D91.svg?style=flat&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+### 💻 Tech Stack:
+![C#](https://img.shields.io/badge/C%23-0A0A0A.svg?style=flat&logo=c-sharp&logoColor=#00FFFF)
+![.NET](https://img.shields.io/badge/.NET-0A0A0A.svg?style=flat&logo=dotnet&logoColor=#FF1493)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-0A0A0A.svg?style=flat&logo=.net&logoColor=#00FFFF)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-0A0A0A.svg?style=flat&logo=microsoft%20sql%20server&logoColor=#FF1493)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A.svg?style=flat&logo=javascript&logoColor=#00FFFF)
+![HTML5](https://img.shields.io/badge/HTML5-0A0A0A.svg?style=flat&logo=html5&logoColor=#FF1493)
+![CSS3](https://img.shields.io/badge/CSS3-0A0A0A.svg?style=flat&logo=css3&logoColor=#00FFFF)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0A0A0A.svg?style=flat&logo=bootstrap&logoColor=#FF1493)
+![Postman](https://img.shields.io/badge/Postman-0A0A0A.svg?style=flat&logo=postman&logoColor=#FF1493)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0A0A0A.svg?style=flat&logo=github&logoColor=#00FFFF)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
@@ -74,5 +74,5 @@ My philosophy is simple — <b>understand deeply, build efficiently, and keep im
 
 
 ---
-
+<img src="https://img.shields.io/badge/════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-0A0A0A.svg?style=flat&logoColor=#008080">
 <img src="https://github.com/lalitkaushal007/lalitkaushal007/blob/main/header_.jpg" />
