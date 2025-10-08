@@ -26,7 +26,7 @@ My philosophy is simple — <b>understand deeply, build efficiently, and keep im
 </p>
 
 ---
-<img src="https://img.shields.io/badge/═══════════════════════════════════-0A0A0A.svg?style=flat&logoColor=#FF1493">
+<img src="https://img.shields.io/badge/════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-0A0A0A.svg?style=flat&logoColor=#008080">
 
 ### 🌐 Connect with Me:
 [![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?logo=twitter&logoColor=white)](https://x.com/Lalit231216?t=Z1_m1J7YNO1a7D8Dj9C0Vw&s=09) 
@@ -34,7 +34,7 @@ My philosophy is simple — <b>understand deeply, build efficiently, and keep im
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/LalitKaushal)
 
 ---
-<img src="https://img.shields.io/badge/═══════════════════════════════════-0A0A0A.svg?style=flat&logoColor=#FF1493">
+<img src="https://img.shields.io/badge/════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-0A0A0A.svg?style=flat&logoColor=#008080">
 
 
 ### 💻 Tech Stack:
@@ -58,6 +58,7 @@ My philosophy is simple — <b>understand deeply, build efficiently, and keep im
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
+<img src="https://img.shields.io/badge/════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-0A0A0A.svg?style=flat&logoColor=#008080">
 
 ### 📊 GitHub Stats:
 [![Lalit’s GitHub stats](https://github-readme-stats.vercel.app/api?username=lalitkaushal007&theme=dark&count_private=true&show_icons=true)](https://github.com/lalitkaushal007)
@@ -66,6 +67,7 @@ My philosophy is simple — <b>understand deeply, build efficiently, and keep im
 
 
 ---
+<img src="https://img.shields.io/badge/════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-0A0A0A.svg?style=flat&logoColor=#008080">
 
 ### 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=lalitkaushal007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
