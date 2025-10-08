@@ -40,7 +40,28 @@ My philosophy is simple — <b>understand deeply, build efficiently, and keep im
 
 <img src="https://img.shields.io/badge/════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-008080.svg?style=flat&logoColor=#008080">
 
+### 🚀 Projects
+- **BOOM T-Mobile Portal** – [Repo Link](#) | Real-time telecom portal.
+- **WIFLY Management Portal** – [Repo Link](#) | Wi-Fi device management system.
 
+<img src="https://img.shields.io/badge/════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-008080.svg?style=flat&logoColor=#008080">
+
+### 🏅 Achievements & Certifications
+- Google Certified: Professional Data Engineer
+- IBM: Full Stack Development Certification
+
+<img src="https://img.shields.io/badge/════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-008080.svg?style=flat&logoColor=#008080">
+
+### 🎯 Learning & Goals
+- Learning: .NET Core 8, Azure, Microservices
+- Goal: Contribute to large-scale open-source projects
+
+<img src="https://img.shields.io/badge/════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-008080.svg?style=flat&logoColor=#008080">
+
+### 🎮 Fun & Interests
+- Competitive programming, travel, photography,onlinegaming
+
+<img src="https://img.shields.io/badge/════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-008080.svg?style=flat&logoColor=#008080">
 
 ### 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
