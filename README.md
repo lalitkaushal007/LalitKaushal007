@@ -1,7 +1,7 @@
 <h2 align="center" style="color:#00F2FE; text-shadow: 0 0 10px #00F2FE, 0 0 20px #FF00F7;">Hello there! 👋 I'm Lalit Kaushal</h2>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{lalitkaushal007}/count.svg" alt="Visitor Count" width="180" height="24" />
+  <img src="https://profile-counter.glitch.me/{lalitkaushal007}/count.svg" alt=" 🚀 Visitor Count" width="180" height="24" />
 </p>
 
 <div style="background: rgba(0,0,0,0.6); border-radius: 20px; padding: 20px; box-shadow: 0 0 20px #00F2FE, 0 0 40px #FF00F7; margin-bottom: 30px;">
@@ -25,24 +25,24 @@ My philosophy is simple — <b>understand deeply, build efficiently, and keep im
 </p>
 </div>
 
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #00F2FE, #FF00F7); margin-bottom:30px;">
+### 🌐 Connect with Me:
+[![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?logo=twitter&logoColor=white)](https://x.com/Lalit231216?t=Z1_m1J7YNO1a7D8Dj9C0Vw&s=09) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalit-kaushal-7862501b5/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/LalitKaushal)
 
-<h3 style="color:#00F2FE; text-shadow:0 0 5px #00F2FE;">🚀 Projects</h3>
-<div style="display:flex; flex-wrap:wrap; gap:20px;">
 
-<div style="flex:1; min-width:250px; background: rgba(0,0,0,0.6); border-radius:15px; padding:15px; box-shadow:0 0 15px #00F2FE;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Wi-Fi_logo.png" width="30" style="vertical-align:middle;"> <b>WIFLY Management Portal</b><br>
-Wi-Fi device portal with activation, recharges, plan verification, invoicing, and reporting.<br>
-<a href="https://pos.wifly.us" style="color:#FF00F7;">Visit Portal</a>
-</div>
 
-<div style="flex:1; min-width:250px; background: rgba(0,0,0,0.6); border-radius:15px; padding:15px; box-shadow:0 0 15px #FF00F7;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Enk_Logo.png" width="30" style="vertical-align:middle;"> <b>ENK Wireless Portal</b><br>
-Telecom management portal for device and plan management.<br>
-<a href="https://pos.enkwirelessinc.com" style="color:#00F2FE;">Visit Portal</a>
-</div>
+<img src="https://img.shields.io/badge/════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-008080.svg?style=flat&logoColor=#008080">
 
-</div>
+### 🚀 Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Wi-Fi_logo.png" width="30" /> **WIFLY Management Portal** | Wi-Fi device portal with activation, recharges, plan verification, invoicing, and reporting. | [Visit](https://pos.wifly.us) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Enk_Logo.png" width="30" /> **ENK Wireless Portal** | Telecom management portal for device and plan management. | [Visit](https://pos.enkwirelessinc.com) |
+
+
+<img src="https://img.shields.io/badge/════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-008080.svg?style=flat&logoColor=#008080">
 
 <hr style="border: 0; height: 2px; background: linear-gradient(90deg, #FF00F7, #00F2FE); margin:30px 0;">
 
