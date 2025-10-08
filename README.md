@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h2>Hello Visitors! 👋 My name is Lalit Kaushal.</h2>
+<h2> My name is Lalit Kaushal.</h2>
 
 <p align="start">
   <img src="https://profile-counter.glitch.me/{lalitkaushal007}/count.svg" alt="Visitor Count" width="180" height="24" />
