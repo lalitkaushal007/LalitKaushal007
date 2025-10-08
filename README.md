@@ -65,7 +65,7 @@ My philosophy is simple — <b>understand deeply, build efficiently, and keep im
 ---
 
 ### 🏆 GitHub Trophies:
-[![Lalit’s GitHub stats](https://github-readme-stats.vercel.app/api?username=lalitkaushal007&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/lalitkaushal007)
+![](https://github-profile-trophy.vercel.app/?username=lalitkaushal007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 ---
