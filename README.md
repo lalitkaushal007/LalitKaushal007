@@ -66,6 +66,8 @@ My philosophy is simple — <b>understand deeply, build efficiently, and keep im
 <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-Microsoft%20Cloud-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
 <a href="https://microservices.io/"><img src="https://img.shields.io/badge/Microservices-Architecture-FF6F61?style=for-the-badge"></a>
 <a href="https://github.com/lalitkaushal007"><img src="https://img.shields.io/badge/Open%20Source-Contributions-4ABF3D?style=for-the-badge&logo=github&logoColor=white"></a>
+  [![Mentoring](https://img.shields.io/badge/Mentoring-Junior%20Developers-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](#)  
+
 </div>
 
 <hr style="border: 0; height: 2px; background: linear-gradient(90deg, #FF00F7, #00F2FE); margin:30px 0;">
@@ -99,28 +101,49 @@ My philosophy is simple — <b>understand deeply, build efficiently, and keep im
 <h3 style="color:#FF00F7; text-shadow:0 0 5px #FF00F7;">💻 Tech Stack</h3>
 <div style="display:flex; flex-wrap:wrap; gap:8px;">
 <!-- Add all your tech badges here -->
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white">
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white">
-<img src="https://img.shields.io/badge/ASP.NET-%230078D4.svg?style=flat&logo=.net&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E">
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-008080.svg?style=flat&logoColor=#008080">
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-%230078D4.svg?style=flat&logo=.net&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-%235C2D91.svg?style=flat&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+
+
+<img src="https://img.shields.io/badge/_______________________________________________________________________________________________________________________________________________________________________________________-008080.svg?style=flat&logoColor=#008080">
 </div>
 
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #00F2FE, #FF00F7); margin:30px 0;">
-
-<h3 style="color:#00F2FE; text-shadow:0 0 5px #00F2FE;">🌐 Connect with Me</h3>
-<a href="https://x.com/Lalit231216?t=Z1_m1J7YNO1a7D8Dj9C0Vw&s=09"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?logo=twitter&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/lalit-kaushal-7862501b5/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-<a href="https://instagram.com/LalitKaushal"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #FF00F7, #00F2FE); margin:30px 0;">
-
-<h3 style="color:#FF00F7; text-shadow:0 0 5px #FF00F7;">📊 GitHub Stats & Trophies</h3>
+### 📊 GitHub Stats:
 [![Lalit’s GitHub stats](https://github-readme-stats.vercel.app/api?username=lalitkaushal007&theme=dark&count_private=true&show_icons=true)](https://github.com/lalitkaushal007)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lalitkaushal007&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkaushal007&count_private=true&show_icons=true&theme=dark)
+
+
+
+<img src="https://img.shields.io/badge/════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-008080.svg?style=flat&logoColor=#008080">
+
+
+
+### 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=lalitkaushal007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<img src="https://github.com/lalitkaushal007/lalitkaushal007/blob/main/icons/header_.png" alt="Header" style="margin-top:20px;">
+
+
+<img src="https://img.shields.io/badge/════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-008080.svg?style=flat&logoColor=#008080">
+
+
+<img src="https://github.com/lalitkaushal007/lalitkaushal007/blob/main/header_.jpg" />
