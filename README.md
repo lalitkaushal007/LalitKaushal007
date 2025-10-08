@@ -58,13 +58,15 @@ My philosophy is simple — <b>understand deeply, build efficiently, and keep im
 
 ### 📊 GitHub Stats:
 [![Lalit’s GitHub stats](https://github-readme-stats.vercel.app/api?username=lalitkaushal007&theme=dark&count_private=true&show_icons=true)](https://github.com/lalitkaushal007)
-![](https://github-readme-streak-stats.herokuapp.com/?user=lalitkaushal007&theme=dark)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lalitkaushal007&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkaushal007&count_private=true&show_icons=true&theme=dark)
+
 
 ---
 
 ### 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=lalitkaushal007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![Lalit’s GitHub stats](https://github-readme-stats.vercel.app/api?username=lalitkaushal007&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/lalitkaushal007)
+
 
 ---
 
