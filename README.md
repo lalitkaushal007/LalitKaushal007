@@ -26,6 +26,7 @@ My philosophy is simple — <b>understand deeply, build efficiently, and keep im
 </p>
 
 ---
+<img src="https://img.shields.io/badge/═══════════════════════════════════-0A0A0A.svg?style=flat&logoColor=#FF1493">
 
 ### 🌐 Connect with Me:
 [![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?logo=twitter&logoColor=white)](https://x.com/Lalit231216?t=Z1_m1J7YNO1a7D8Dj9C0Vw&s=09) 
@@ -33,6 +34,8 @@ My philosophy is simple — <b>understand deeply, build efficiently, and keep im
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/LalitKaushal)
 
 ---
+<img src="https://img.shields.io/badge/═══════════════════════════════════-0A0A0A.svg?style=flat&logoColor=#FF1493">
+
 
 ### 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
