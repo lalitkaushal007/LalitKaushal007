@@ -1,4 +1,4 @@
-<h2 align="center" style="color:#00F2FE; text-shadow: 0 0 10px #00F2FE, 0 0 20px #FF00F7;">═════════════════════════════════════════════ Hello there! 👋 I'm Lalit Kaushal ═════════════════════════════════════════════</h2>
+<h2 align="center" style="color:#00F2FE; text-shadow: 0 0 10px #00F2FE, 0 0 20px #FF00F7;">════════════════════════════ Hello there! 👋 I'm Lalit Kaushal ════════════════════════════</h2>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/{lalitkaushal007}/count.svg" alt=" 🚀 Visitor Count" width="180" height="24" />
@@ -44,7 +44,6 @@ My philosophy is simple — <b>understand deeply, build efficiently, and keep im
 
 <img src="https://img.shields.io/badge/════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-008080.svg?style=flat&logoColor=#008080">
 
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #FF00F7, #00F2FE); margin:30px 0;">
 
 <h3 style="color:#FF00F7; text-shadow:0 0 5px #FF00F7;">🏅 Achievements & Certifications</h3>
 
@@ -60,7 +59,6 @@ My philosophy is simple — <b>understand deeply, build efficiently, and keep im
 
 <img src="https://img.shields.io/badge/════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-008080.svg?style=flat&logoColor=#008080">
 
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #00F2FE, #FF00F7); margin:30px 0;">
 
 <h3 style="color:#00F2FE; text-shadow:0 0 5px #00F2FE;">🎯 Learning & Goals</h3>
 <div style="display:flex; flex-wrap:wrap; gap:10px;">
@@ -74,7 +72,6 @@ My philosophy is simple — <b>understand deeply, build efficiently, and keep im
 
 <img src="https://img.shields.io/badge/════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-008080.svg?style=flat&logoColor=#008080">
 
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #FF00F7, #00F2FE); margin:30px 0;">
 
 <h3 style="color:#FF00F7; text-shadow:0 0 5px #FF00F7;">🎮 Fun & Interests</h3>
 <div style="display:flex; flex-wrap:wrap; gap:10px;">
@@ -88,7 +85,6 @@ My philosophy is simple — <b>understand deeply, build efficiently, and keep im
 
 <img src="https://img.shields.io/badge/════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-008080.svg?style=flat&logoColor=#008080">
 
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #00F2FE, #FF00F7); margin:30px 0;">
 
 <h3 style="color:#00F2FE; text-shadow:0 0 5px #00F2FE;">🤖 AI Tools & Technologies</h3>
 <div style="display:flex; flex-wrap:wrap; gap:10px;">
@@ -104,7 +100,6 @@ My philosophy is simple — <b>understand deeply, build efficiently, and keep im
 
 <img src="https://img.shields.io/badge/════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════-008080.svg?style=flat&logoColor=#008080">
 
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #FF00F7, #00F2FE); margin:30px 0;">
 
 <h3 style="color:#FF00F7; text-shadow:0 0 5px #FF00F7;">💻 Tech Stack</h3>
 <div style="display:flex; flex-wrap:wrap; gap:8px;">
