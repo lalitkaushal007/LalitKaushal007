@@ -1,8 +1,5 @@
 <h2 align="center" style="color:#00F2FE; text-shadow: 0 0 10px #00F2FE, 0 0 20px #FF00F7;">════════════════ Hello there! 👋 I'm Lalit Kaushal ════════════════</h2>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{lalitkaushal007}/count.svg" alt=" 🚀 Visitor Count" width="180" height="24" />
-</p>
 
 <div style="background: rgba(0,0,0,0.6); border-radius: 20px; padding: 20px; box-shadow: 0 0 20px #00F2FE, 0 0 40px #FF00F7; margin-bottom: 30px;">
 <p align="center" style="color:white; font-size:16px;">
