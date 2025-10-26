@@ -3,7 +3,7 @@
 
 <div style="background: rgba(0,0,0,0.6); border-radius: 20px; padding: 20px; box-shadow: 0 0 20px #00F2FE, 0 0 40px #FF00F7; margin-bottom: 30px;">
 <p align="center" style="color:white; font-size:16px;">
-Hello! I’m <b>Lalit Kaushal</b>, a passionate and detail-oriented <b>Software Developer</b> specializing in <b>.NET technologies</b>.  
+Hello! I’m <b>Lalit Kaushal</b>, a passionate and detail-oriented <b>Software Developer</b> specializing in <b>.NET technologies</b>. 
 I take pride in building secure, high-performance, and scalable web applications that create real business impact. My expertise lies in designing clean, efficient backend architectures and delivering seamless user experiences using modern web technologies.  
 </br>
 I hold a <b>Bachelor of Technology in Electrical and Electronics Engineering</b> from <b>Noida Institute of Engineering and Technology (AKTU)</b>, where I developed a strong foundation in programming, logic, and problem-solving. My curiosity led me to explore software development, where I found my niche in the <b>Microsoft technology stack</b>—especially <b>C#, ASP.NET, ADO.NET, and SQL Server</b>.  
