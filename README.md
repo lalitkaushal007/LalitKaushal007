@@ -15,7 +15,7 @@
   I’ve contributed to projects like <b>BOOM, T-Mobile,</b> and <b>WIFLY Management Portal</b>, optimizing APIs and backend logic.<br>
   My expertise includes <b>RESTful API design, database optimization, and production support</b> with zero downtime.<br>
   Proficient in <b>Visual Studio, SSMS, Git, and Postman</b> with front-end experience in <b>HTML, CSS, JS, and Bootstrap</b>.<br>
-  <b>Solved coding challenges on <a href="https://leetcode.com/lalitkaushal007/">LeetCode</a>, <a href="https://www.hackerrank.com/lalitkaushal007">HackerRank</a>, and <a href="https://www.codechef.com/users/lalitkaushal007">CodeChef</a></b> with 5⭐ in <b>C#, Java, and Python</b>.<br>
+  <b>Solved coding challenges on <a href="https://leetcode.com/u/lalit007/">LeetCode</a>, <a href="https://www.hackerrank.com/profile/lks007">HackerRank</a>, and <a href="https://www.codechef.com/users/lks231216">CodeChef</a></b> with 5⭐ in <b>C#, Java, and Python</b>.<br>
   Certified by <b>Google, IBM, Accenture, and Great Learning</b> to strengthen modern development practices.<br>
   💡 <i style="color:#00F2FE;">"Understand deeply, build efficiently, and keep improving...🚀"</i>
 </p>
