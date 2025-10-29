@@ -1,21 +1,24 @@
 <h2 align="center" style="color:#00F2FE; text-shadow: 0 0 10px #00F2FE, 0 0 20px #FF00F7;">════════════════ Hello there! 👋 I'm Lalit Kaushal ════════════════</h2>
 
 
-<div style="background: rgba(0,0,0,0.6); border-radius: 20px; padding: 20px; box-shadow: 0 0 20px #00F2FE, 0 0 40px #FF00F7; margin-bottom: 30px;">
-<p align="center" style="color:white; font-size:16px;">
-Hello! I’m <b>Lalit Kaushal</b>, a passionate and detail-oriented <b>Software Developer</b> specializing in <b>.NET technologies</b>. 
-I take pride in building secure, high-performance, and scalable web applications that create real business impact. My expertise lies in designing clean, efficient backend architectures and delivering seamless user experiences using modern web technologies.  
-</br>
-I hold a <b>Bachelor of Technology in Electrical and Electronics Engineering</b> from <b>Noida Institute of Engineering and Technology (AKTU)</b>, where I developed a strong foundation in programming, logic, and problem-solving. My curiosity led me to explore software development, where I found my niche in the <b>Microsoft technology stack</b>—especially <b>C#, ASP.NET, ADO.NET, and SQL Server</b>.  
-</br>
-My daily work revolves around designing RESTful APIs, writing efficient server-side logic, integrating third-party services, and optimizing database performance through indexing and stored procedures. I also handle production support, ensuring stability and zero downtime during critical operations.  
-</br>
-I’m experienced with <b>Visual Studio, SSMS, Git, and Postman</b>, along with strong front-end skills in <b>HTML, CSS, JavaScript, jQuery, and Bootstrap</b>. I continuously learn and explore <b>Entity Framework, .NET Core, and cloud integrations</b> to stay current with modern technologies.  
-</br>
-Beyond work, I love problem-solving on platforms like <b>LeetCode, HackerRank, and CodeChef</b>, having solved over <b>300+ coding challenges</b> and earned multiple 5-star ratings in C#, Java, and Python. I’ve also completed certifications from <b>Google, IBM, Accenture, and Great Learning</b> to further sharpen my technical skills.  
-</br>
+<p align="center" style="font-size:20px;">
+  <b>.NET Developer | Solutions Architect | Tech Enthusiast</b>
 </p>
-</div>
+<p align="center">
+  <b>B.Tech (Electrical & Electronics), NIET | Certified by Google, IBM, Accenture, Great Learning</b>
+</p>
+
+<p align="center" style="color:#EAEAEA; font-size:17px;">
+  I'm a passionate <b style="color:#00F2FE;">.NET Software Developer</b> focused on building secure, high-performance, and scalable web applications.<br>
+  I specialize in <b style="color:#00F2FE;">C#, ASP.NET, ADO.NET, and SQL Server</b>, delivering clean and efficient backend architectures.<br>
+  A <b>B.Tech (Electrical & Electronics)</b> graduate from <b>NIET (AKTU)</b>, I discovered my passion for programming early on.<br>
+  I’ve contributed to projects like <b>BOOM, T-Mobile,</b> and <b>WIFLY Management Portal</b>, optimizing APIs and backend logic.<br>
+  My expertise includes <b>RESTful API design, database optimization, and production support</b> with zero downtime.<br>
+  Proficient in <b>Visual Studio, SSMS, Git, and Postman</b> with front-end experience in <b>HTML, CSS, JS, and Bootstrap</b>.<br>
+  <b>Solved coding challenges on <a href="https://leetcode.com/lalitkaushal007/">LeetCode</a>, <a href="https://www.hackerrank.com/lalitkaushal007">HackerRank</a>, and <a href="https://www.codechef.com/users/lalitkaushal007">CodeChef</a></b> with 5⭐ in <b>C#, Java, and Python</b>.<br>
+  Certified by <b>Google, IBM, Accenture, and Great Learning</b> to strengthen modern development practices.<br>
+  💡 <i style="color:#00F2FE;">"Understand deeply, build efficiently, and keep improving...🚀"</i>
+</p>
 
 ### 🌐 Connect with Me:
 [![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?logo=twitter&logoColor=white)](https://x.com/Lalit231216?t=Z1_m1J7YNO1a7D8Dj9C0Vw&s=09) 
