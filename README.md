@@ -179,15 +179,15 @@ I started with Electrical Engineering but found my true passion in writing code 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=lalitkaushal007&theme=dark&count_private=true&show_icons=true" alt="GitHub Stats" />
+      [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lalitkaushal007&theme=dark&count_private=true&show_icons=true)](https://github.com/lalitkaushal007)
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalitkaushal007&theme=dark" alt="GitHub Streak" />
+      [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lalitkaushal007&theme=dark)](https://github.com/lalitkaushal007)
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkaushal007&count_private=true&show_icons=true&theme=dark&layout=compact" alt="Top Languages" />
+      [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkaushal007&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/lalitkaushal007)
     </td>
   </tr>
 </table>
