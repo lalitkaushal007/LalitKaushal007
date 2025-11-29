@@ -122,21 +122,6 @@ I started with Electrical Engineering but found my true passion in writing code 
 
 
 
-<h3 style="color:#00F2FE; text-shadow:0 0 5px #00F2FE;">🎯 Learning & Goals</h3>
-<div style="display:flex; align="center" flex-wrap:wrap; gap:10px;">
-<a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET%20Core-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
-<a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-Microsoft%20Cloud-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
-<a href="https://microservices.io/"><img src="https://img.shields.io/badge/Microservices-Architecture-FF6F61?style=for-the-badge"></a>
-<a href="https://github.com/lalitkaushal007"><img src="https://img.shields.io/badge/Open%20Source-Contributions-4ABF3D?style=for-the-badge&logo=github&logoColor=white"></a>
-</div>
-
-</br>
-</br>
-  ───────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ─────────────────────────────────────
-</br>
-</br>
-
-
 <h3 style="color:#FF00F7; text-shadow:0 0 5px #FF00F7;">🎮 Fun & Interests</h3>
 <div style="display:flex; flex-wrap:wrap; gap:10px;">
 <a href="https://leetcode.com/lalitkaushal007/"><img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white"></a>
@@ -174,21 +159,20 @@ I started with Electrical Engineering but found my true passion in writing code 
 </br>
 </br>
 
-
 ### 📊 GitHub Stats
 
 <table>
   <tr>
     <td align="center">
-      [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lalitkaushal007&theme=dark&count_private=true&show_icons=true)](https://github.com/lalitkaushal007)
+      <img src="https://github-readme-stats.vercel.app/api?username=lalitkaushal007&theme=dark&count_private=true&show_icons=true" alt="GitHub Stats" />
     </td>
     <td align="center">
-      [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lalitkaushal007&theme=dark)](https://github.com/lalitkaushal007)
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalitkaushal007&theme=dark" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkaushal007&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/lalitkaushal007)
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkaushal007&count_private=true&show_icons=true&theme=dark&layout=compact" alt="Top Languages" />
     </td>
   </tr>
 </table>
