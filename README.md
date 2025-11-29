@@ -23,11 +23,10 @@
 <div align="center">
 ### 🌐 Connect with Me:
 
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:baba231216.email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:baba231216.email@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?logo=twitter&logoColor=white)](https://x.com/Lalit231216?t=Z1_m1J7YNO1a7D8Dj9C0Vw&s=09) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalit-kaushal-7862501b5/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/LalitKaushalSingh)
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-000?style=for-the-badge)](https://lks-portfolio-five.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/yourusername)
 </div>
 </br>
@@ -41,20 +40,10 @@
 </br>
 ### 📊 GitHub Activity
 
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-000?style=for-the-badge)](https://lks-portfolio-five.vercel.app/)
 ![Profile Views](https://komarev.com/ghpvc/?username=lalitkaushal007&color=blue)
 ![Repositories](https://badges.strrl.dev/repos/lalitkaushal007?color=blue)
-![Followers](https://badges.strrl.dev/tab=followers/lalitkaushal007?color=blue)
-<div align="center">
-
-<a href="https://github.com/lalitkaushal007?tab=repositories">
-  <img alt="Repositories" src="https://badges.strrl.dev/repos/lalitkaushal007?color=blue&style=for-the-badge">
-</a>
-<a href="https://github.com/lalitkaushal007?tab=followers">
-  <img alt="Followers" src="https://img.shields.io/github/followers/lalitkaushal007?color=blue&style=for-the-badge">
-</a>
-</br>
-</br>
-**Check out my [repositories](https://github.com/lalitkaushal007?tab=repositories) for my latest work!**
+![Followers](https://github.com/lalitkaushal007?tab=followers?color=blue)
 </br>
 </br>
 </br>
