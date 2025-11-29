@@ -37,11 +37,11 @@
 ![Stars](https://img.shields.io/github/stars/lalitkaushal007?color=blue&label=Stars&logo=github)
 ![Profile Views](https://komarev.com/ghpvc/?username=lalitkaushal007&color=blue)
 
-  💡 <i style="color:#00F2FE;">"
+  <i style="color:#00F2FE;">
 
 ### ⚡ Fun Fact
 I started with Electrical Engineering but found my true passion in writing code that powers the digital world!
-"</i>
+</i>
 </div>
 </br>
 
