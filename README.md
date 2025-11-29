@@ -51,103 +51,6 @@ I started with Electrical Engineering but found my true passion in writing code 
 </br>
 </br>
 
-
-
-
-### 🚀 Projects
-
-| Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
-| <img src="https://wifly.us/cdn/shop/files/Logo.png?v=1743073925&width=180" width="30" />|  **WIFLY Management Portal**  Comprehensive Wi-Fi device portal with activation, recharges, plan verification, invoicing, and reporting features. | `.NET` `HTML,CSS,Js` `SQL` `REST API` | [🌐 Visit](https://pos.wifly.us) |
-| <img src="https://www.enkwirelessinc.com/images/logo.png" width="30" /> |  **ENK Wireless Portal** Telecom management portal for USA Based Networks and WiFi device management with real-time monitoring. | `.NET` `HTML,CSS,Js` `SQL` `REST API` | [🌐 Visit](https://pos.enkwirelessinc.com) |
-
-
-</br>
-</br>
-  ───────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ─────────────────────────────────────
-
-</br>
-</br>
-
-
-<h3 style="color:#FF00F7; text-shadow:0 0 5px #FF00F7;">🏅 Achievements & Certifications</h3>
-
-<div style="display:flex; align="center" flex-wrap:wrap; gap:10px;">
-<a href="https://cloud.google.com/certification/data-engineer"><img src="https://img.shields.io/badge/Google-Professional%20Data%20Engineer-4285F4?style=for-the-badge&logo=google&logoColor=white"></a>
-<a href="https://www.ibm.com/certify"><img src="https://img.shields.io/badge/IBM-Full%20Stack%20Development-051E3E?style=for-the-badge&logo=ibm&logoColor=white"></a>
-<a href="https://www.accenture.com/"><img src="https://img.shields.io/badge/Accenture-Advanced%20.NET%20Developer-0A0A0A?style=for-the-badge&logo=accenture&logoColor=white"></a>
-<a href="https://www.greatlearning.in/"><img src="https://img.shields.io/badge/Great%20Learning-Cloud%20%26%20DevOps-FF5733?style=for-the-badge&logo=greatlearning&logoColor=white"></a>
-<a href="https://leetcode.com/lalitkaushal007/"><img src="https://img.shields.io/badge/LeetCode-300%2B%20Challenges-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white"></a>
-<a href="https://www.hackerrank.com/lalitkaushal007"><img src="https://img.shields.io/badge/HackerRank-5%20Star%20Rating-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
-<a href="https://www.codechef.com/users/lalitkaushal007"><img src="https://img.shields.io/badge/CodeChef-5%20Star%20Rating-EC6814?style=for-the-badge&logo=codechef&logoColor=white"></a>
-</div>
-
-</br>
-</br>
-</br>
-  ───────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ─────────────────────────────────────
-</br>
-</br>
-</br>
-
-
-<h3 style="color:#00F2FE; text-shadow:0 0 5px #00F2FE;">🎯 Learning & Goals</h3>
-<div style="display:flex; align="center" flex-wrap:wrap; gap:10px;">
-<a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET%20Core-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
-<a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-Microsoft%20Cloud-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
-<a href="https://microservices.io/"><img src="https://img.shields.io/badge/Microservices-Architecture-FF6F61?style=for-the-badge"></a>
-<a href="https://github.com/lalitkaushal007"><img src="https://img.shields.io/badge/Open%20Source-Contributions-4ABF3D?style=for-the-badge&logo=github&logoColor=white"></a>
-</div>
-
-</br>
-</br>
-</br>
-  ───────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ─────────────────────────────────────
-</br>
-</br>
-</br>
-
-
-<h3 style="color:#FF00F7; text-shadow:0 0 5px #FF00F7;">🎮 Fun & Interests</h3>
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-<a href="https://leetcode.com/lalitkaushal007/"><img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white"></a>
-<a href="https://www.hackerrank.com/lalitkaushal007"><img src="https://img.shields.io/badge/HackerRank-Competitive%20Coding-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
-<a href="https://www.codechef.com/users/lalitkaushal007"><img src="https://img.shields.io/badge/CodeChef-Coding%20Contests-EC6814?style=for-the-badge&logo=codechef&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Photography-Hobby-FF69B4?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Traveling-Adventure-1E90FF?style=for-the-badge&logo=airbnb&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Music-Hobby-9400D3?style=for-the-badge&logo=spotify&logoColor=white"></a>
-</div>
-
-</br>
-</br>
-</br>
-  ───────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ─────────────────────────────────────
-</br>
-</br>
-</br>
-
-
-<h3 style="color:#00F2FE; text-shadow:0 0 5px #00F2FE;">🤖 AI Tools & Technologies</h3>
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-<a href="https://chat.openai.com/"><img src="https://img.shields.io/badge/ChatGPT-OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white"></a>
-<a href="https://openai.com/dall-e"><img src="https://img.shields.io/badge/DALL·E-OpenAI-F6D258?style=for-the-badge&logo=openai&logoColor=black"></a>
-<a href="https://www.midjourney.com/"><img src="https://img.shields.io/badge/MidJourney-AI-FF0080?style=for-the-badge"></a>
-<a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/Claude-Anthropic-4B8BBE?style=for-the-badge&logo=anthropic&logoColor=white"></a>
-<a href="https://bard.google.com/"><img src="https://img.shields.io/badge/Bard-Google-4285F4?style=for-the-badge&logo=google&logoColor=white"></a>
-<a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/GitHub%20Copilot-Microsoft-00C8FF?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://stability.ai/stable-diffusion"><img src="https://img.shields.io/badge/Stable%20Diffusion-AI-FBAF00?style=for-the-badge"></a>
-<a href="https://openai.com/research/whisper"><img src="https://img.shields.io/badge/Whisper-OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white"></a>
-</div>
-
-</br>
-</br>
-</br>
-  ───────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ─────────────────────────────────────
-</br>
-</br>
-</br>
-
-
 <h3 style="color:#FF00F7; text-shadow:0 0 5px #FF00F7;">💻 Tech Stack</h3>
 <div style="display:flex; flex-wrap:wrap; gap:8px;">
 
@@ -177,11 +80,100 @@ I started with Electrical Engineering but found my true passion in writing code 
 
 </br>
 </br>
+  ───────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ─────────────────────────────────────
+</br>
+</br>
+
+
+### 🚀 Projects
+
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| <img src="https://wifly.us/cdn/shop/files/Logo.png?v=1743073925&width=180" width="30" />|  **WIFLY Management Portal**  Comprehensive Wi-Fi device portal with activation, recharges, plan verification, invoicing, and reporting features. | `.NET` `HTML,CSS,Js` `SQL` `REST API's` | [🌐 Visit](https://pos.wifly.us) |
+| <img src="https://www.enkwirelessinc.com/images/logo.png" width="30" /> |  **ENK Wireless Portal** Telecom management portal for USA Based Networks and WiFi device management with real-time monitoring. | `.NET` `HTML,CSS,Js` `SQL` `REST/Payment API's` | [🌐 Visit](https://pos.enkwirelessinc.com) |
+
+
+</br>
+</br>
+  ───────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ─────────────────────────────────────
+
+</br>
+</br>
+
+
+<h3 style="color:#FF00F7; text-shadow:0 0 5px #FF00F7;">🏅 Achievements & Certifications</h3>
+
+<div style="display:flex; align="center" flex-wrap:wrap; gap:10px;">
+<a href="https://cloud.google.com/certification/data-engineer"><img src="https://img.shields.io/badge/Google-Professional%20Data%20Engineer-4285F4?style=for-the-badge&logo=google&logoColor=white"></a>
+<a href="https://www.ibm.com/certify"><img src="https://img.shields.io/badge/IBM-Full%20Stack%20Development-051E3E?style=for-the-badge&logo=ibm&logoColor=white"></a>
+<a href="https://www.accenture.com/"><img src="https://img.shields.io/badge/Accenture-Advanced%20.NET%20Developer-0A0A0A?style=for-the-badge&logo=accenture&logoColor=white"></a>
+<a href="https://www.greatlearning.in/"><img src="https://img.shields.io/badge/Great%20Learning-Cloud%20%26%20DevOps-FF5733?style=for-the-badge&logo=greatlearning&logoColor=white"></a>
+<a href="https://leetcode.com/lalitkaushal007/"><img src="https://img.shields.io/badge/LeetCode-300%2B%20Challenges-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+<a href="https://www.hackerrank.com/lalitkaushal007"><img src="https://img.shields.io/badge/HackerRank-5%20Star%20Rating-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+<a href="https://www.codechef.com/users/lalitkaushal007"><img src="https://img.shields.io/badge/CodeChef-5%20Star%20Rating-EC6814?style=for-the-badge&logo=codechef&logoColor=white"></a>
+</div>
+
+</br>
+</br>
+
+  ───────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ─────────────────────────────────────
+</br>
+</br>
+
+
+
+<h3 style="color:#00F2FE; text-shadow:0 0 5px #00F2FE;">🎯 Learning & Goals</h3>
+<div style="display:flex; align="center" flex-wrap:wrap; gap:10px;">
+<a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET%20Core-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
+<a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-Microsoft%20Cloud-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
+<a href="https://microservices.io/"><img src="https://img.shields.io/badge/Microservices-Architecture-FF6F61?style=for-the-badge"></a>
+<a href="https://github.com/lalitkaushal007"><img src="https://img.shields.io/badge/Open%20Source-Contributions-4ABF3D?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
+
+</br>
 </br>
   ───────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ─────────────────────────────────────
 </br>
 </br>
+
+
+<h3 style="color:#FF00F7; text-shadow:0 0 5px #FF00F7;">🎮 Fun & Interests</h3>
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+<a href="https://leetcode.com/lalitkaushal007/"><img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+<a href="https://www.hackerrank.com/lalitkaushal007"><img src="https://img.shields.io/badge/HackerRank-Competitive%20Coding-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+<a href="https://www.codechef.com/users/lalitkaushal007"><img src="https://img.shields.io/badge/CodeChef-Coding%20Contests-EC6814?style=for-the-badge&logo=codechef&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Photography-Hobby-FF69B4?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Traveling-Adventure-1E90FF?style=for-the-badge&logo=airbnb&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Music-Hobby-9400D3?style=for-the-badge&logo=spotify&logoColor=white"></a>
+</div>
+
 </br>
+</br>
+  ───────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ─────────────────────────────────────
+</br>
+</br>
+
+
+
+<h3 style="color:#00F2FE; text-shadow:0 0 5px #00F2FE;">🤖 AI Tools & Technologies</h3>
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+<a href="https://chat.openai.com/"><img src="https://img.shields.io/badge/ChatGPT-OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white"></a>
+<a href="https://openai.com/dall-e"><img src="https://img.shields.io/badge/DALL·E-OpenAI-F6D258?style=for-the-badge&logo=openai&logoColor=black"></a>
+<a href="https://www.midjourney.com/"><img src="https://img.shields.io/badge/MidJourney-AI-FF0080?style=for-the-badge"></a>
+<a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/Claude-Anthropic-4B8BBE?style=for-the-badge&logo=anthropic&logoColor=white"></a>
+<a href="https://bard.google.com/"><img src="https://img.shields.io/badge/Bard-Google-4285F4?style=for-the-badge&logo=google&logoColor=white"></a>
+<a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/GitHub%20Copilot-Microsoft-00C8FF?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://stability.ai/stable-diffusion"><img src="https://img.shields.io/badge/Stable%20Diffusion-AI-FBAF00?style=for-the-badge"></a>
+<a href="https://openai.com/research/whisper"><img src="https://img.shields.io/badge/Whisper-OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white"></a>
+</div>
+
+
+</br>
+</br>
+  ───────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ─────────────────────────────────────
+</br>
+</br>
+
 
 
 ### 📊 GitHub Stats:
@@ -190,39 +182,36 @@ I started with Electrical Engineering but found my true passion in writing code 
 
 [![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lks007&show_icons=true&theme=radical&hide_border=true)](https://github.com/lalitkaushal007)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lalitkaushal007&theme=radical&hide_border=true)](https://git.io/streak-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lks007&layout=compact&theme=radical&hide_border=true)](https://github.com/lalitkaushal007)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lalitkaushal007&layout=compact&theme=dark&hide_border=true)](https://github.com/lalitkaushal007)
+
 </div>
-
-
-</br>
 </br>
 </br>
   ───────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ─────────────────────────────────────
 </br>
 </br>
-</br>
 
-<div align="center">
+
   
 ### 📈 Coding Activity
 
 [![Lalit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lalitkaushal007&theme=github-compact&hide_border=true)](https://github.com/lalitkaushal007)
 
-</div>
-</br>
+
+
 </br>
 </br>
   ───────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ─────────────────────────────────────
 </br>
 </br>
-</br>
+
 
 ### 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=lalitkaushal007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
-</br>
+
 </br>
 </br>
   ───────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ─────────────────────────────────────
