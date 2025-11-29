@@ -174,17 +174,25 @@ I started with Electrical Engineering but found my true passion in writing code 
 </br>
 </br>
 
+### 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=lalitkaushal007&theme=dark&count_private=true&show_icons=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalitkaushal007&theme=dark" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkaushal007&count_private=true&show_icons=true&theme=dark&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 
-### 📊 GitHub Stats:
-
-<div align="center">
-
-[![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lks007&show_icons=true&theme=radical&hide_border=true)](https://github.com/lalitkaushal007)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lalitkaushal007&theme=radical&hide_border=true)](https://git.io/streak-stats)
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lalitkaushal007&layout=compact&theme=dark&hide_border=true)](https://github.com/lalitkaushal007)
-
-</div>
 </br>
 </br>
   ───────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ─────────────────────────────────────
