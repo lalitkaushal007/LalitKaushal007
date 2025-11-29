@@ -29,14 +29,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalit-kaushal-7862501b5/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/LalitKaushalSingh)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/yourusername)
+![Stars](https://img.shields.io/github/stars/lalitkaushal007?color=blue&label=Stars&logo=github)
+
 
 ### ⚡ Fun Fact
 I started with Electrical Engineering but found my true passion in writing code that powers the digital world!
 
 </div>
 </br>
-</br>
-</br>
+
 
 
   ───────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ─────────────────────────────────────
@@ -45,10 +46,10 @@ I started with Electrical Engineering but found my true passion in writing code 
 </br>
 ### 📊 GitHub Activity
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-000?style=for-the-badge)](https://lks-portfolio-five.vercel.app/)
+![My Portfolio](https://lks-portfolio-five.vercel.app/)
 ![Profile Views](https://komarev.com/ghpvc/?username=lalitkaushal007&color=blue)
 ![Repositories](https://badges.strrl.dev/repos/lalitkaushal007?color=blue)
-![Followers](https://github.com/lalitkaushal007?tab=followers?color=blue)
+![Followers](https://img.shields.io/github/followers/lalitkaushal007?color=blue&label=Followers&logo=github)
 </br>
 </br>
 </br>
