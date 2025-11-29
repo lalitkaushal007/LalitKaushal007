@@ -50,31 +50,29 @@ I started with Electrical Engineering but found my true passion in writing code 
   ───────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ─────────────────────────────────────
 </br>
 </br>
-</br>
 
 
 
 
 ### 🚀 Projects
 
-| Project | Description | Link |
-|---------|-------------|------|
-| <img src="https://wifly.us/cdn/shop/files/Logo.png?v=1743073925&width=180" width="30" />  | **WIFLY Management Portal** Wi-Fi device portal with activation, recharges, plan verification, invoicing, and reporting. | [Visit](https://pos.wifly.us) |
-| <img src="https://www.enkwirelessinc.com/images/logo.png" width="30" />  | **ENK Wireless Portal** Telecom management portal for USA Based Networks and WiFi device. | [Visit](https://pos.enkwirelessinc.com) |
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| <img src="https://wifly.us/cdn/shop/files/Logo.png?v=1743073925&width=180" width="30" /> **WIFLY Management Portal** | Comprehensive Wi-Fi device portal with activation, recharges, plan verification, invoicing, and reporting features. | `React` `Node.js` `MongoDB` `Payment API` | [🌐 Visit](https://pos.wifly.us) |
+| <img src="https://www.enkwirelessinc.com/images/logo.png" width="30" /> **ENK Wireless Portal** | Telecom management portal for USA Based Networks and WiFi device management with real-time monitoring. | `React` `Express` `MySQL` `REST API` | [🌐 Visit](https://pos.enkwirelessinc.com) |
 
 
-</br>
 </br>
 </br>
   ───────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ─────────────────────────────────────
-</br>
+
 </br>
 </br>
 
 
 <h3 style="color:#FF00F7; text-shadow:0 0 5px #FF00F7;">🏅 Achievements & Certifications</h3>
 
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
+<div style="display:flex; align="center" flex-wrap:wrap; gap:10px;">
 <a href="https://cloud.google.com/certification/data-engineer"><img src="https://img.shields.io/badge/Google-Professional%20Data%20Engineer-4285F4?style=for-the-badge&logo=google&logoColor=white"></a>
 <a href="https://www.ibm.com/certify"><img src="https://img.shields.io/badge/IBM-Full%20Stack%20Development-051E3E?style=for-the-badge&logo=ibm&logoColor=white"></a>
 <a href="https://www.accenture.com/"><img src="https://img.shields.io/badge/Accenture-Advanced%20.NET%20Developer-0A0A0A?style=for-the-badge&logo=accenture&logoColor=white"></a>
@@ -94,7 +92,7 @@ I started with Electrical Engineering but found my true passion in writing code 
 
 
 <h3 style="color:#00F2FE; text-shadow:0 0 5px #00F2FE;">🎯 Learning & Goals</h3>
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
+<div style="display:flex; align="center" flex-wrap:wrap; gap:10px;">
 <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET%20Core-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
 <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-Microsoft%20Cloud-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
 <a href="https://microservices.io/"><img src="https://img.shields.io/badge/Microservices-Architecture-FF6F61?style=for-the-badge"></a>
@@ -111,7 +109,7 @@ I started with Electrical Engineering but found my true passion in writing code 
 
 
 <h3 style="color:#FF00F7; text-shadow:0 0 5px #FF00F7;">🎮 Fun & Interests</h3>
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
+<div style="display:flex; align="center" flex-wrap:wrap; gap:10px;">
 <a href="https://leetcode.com/lalitkaushal007/"><img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white"></a>
 <a href="https://www.hackerrank.com/lalitkaushal007"><img src="https://img.shields.io/badge/HackerRank-Competitive%20Programming-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
 <a href="https://www.codechef.com/users/lalitkaushal007"><img src="https://img.shields.io/badge/CodeChef-Programming%20Contests-EC6814?style=for-the-badge&logo=codechef&logoColor=white"></a>
@@ -151,7 +149,7 @@ I started with Electrical Engineering but found my true passion in writing code 
 
 
 <h3 style="color:#FF00F7; text-shadow:0 0 5px #FF00F7;">💻 Tech Stack</h3>
-<div style="display:flex; flex-wrap:wrap; gap:8px;">
+<div style="display:flex; align="center" flex-wrap:wrap; gap:8px;">
 
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
@@ -203,9 +201,10 @@ I started with Electrical Engineering but found my true passion in writing code 
 </br>
 </br>
 </br>
-### 📈 Coding Activity
 
 <div align="center">
+  
+### 📈 Coding Activity
 
 [![Lalit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lalitkaushal007&theme=github-compact&hide_border=true)](https://github.com/lalitkaushal007)
 
