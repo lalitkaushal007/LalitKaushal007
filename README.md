@@ -168,11 +168,17 @@
 
 
 ### 📊 GitHub Stats:
+
 <div align="center">
-  
-[![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalitkaushal007&theme=dark&count_private=true&show_icons=true)](https://github.com/lalitkaushal007)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lalitkaushal007&theme=dark)](https://github.com/lalitkaushal007)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkaushal007&count_private=true&show_icons=true&theme=dark&layout=compact)](https://github.com/lalitkaushal007)
+
+<!-- Alternative 1: Different theme -->
+[![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalitkaushal007&theme=radical&show_icons=true)](https://github.com/lalitkaushal007)
+
+<!-- Alternative 2: Compact streak -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lalitkaushal007&theme=dark)](https://git.io/streak-stats)
+
+<!-- Alternative 3: Simple language stats -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkaushal007&layout=compact&theme=dark)](https://github.com/lalitkaushal007)
 
 </div>
 
