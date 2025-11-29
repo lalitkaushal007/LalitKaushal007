@@ -29,7 +29,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalit-kaushal-7862501b5/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/LalitKaushalSingh)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/yourusername)
-![Stars](https://img.shields.io/github/stars/lalitkaushal007?color=blue&label=Stars&logo=github)
+
 
 
 ### ⚡ Fun Fact
@@ -46,10 +46,11 @@ I started with Electrical Engineering but found my true passion in writing code 
 </br>
 ### 📊 GitHub Activity
 
-![My Portfolio](https://lks-portfolio-five.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-black?logo=vercel&logoColor=white)](https://lks-portfolio-five.vercel.app/)
 ![Profile Views](https://komarev.com/ghpvc/?username=lalitkaushal007&color=blue)
 ![Repositories](https://badges.strrl.dev/repos/lalitkaushal007?color=blue)
 ![Followers](https://img.shields.io/github/followers/lalitkaushal007?color=blue&label=Followers&logo=github)
+![Stars](https://img.shields.io/github/stars/lalitkaushal007?color=blue&label=Stars&logo=github)
 </br>
 </br>
 </br>
@@ -61,7 +62,7 @@ I started with Electrical Engineering but found my true passion in writing code 
 | Project | Description | Link |
 |---------|-------------|------|
 | <img src="https://wifly.us/cdn/shop/files/Logo.png?v=1743073925&width=180" width="30" />  | **WIFLY Management Portal** Wi-Fi device portal with activation, recharges, plan verification, invoicing, and reporting. | [Visit](https://pos.wifly.us) |
-| <img src="[https://upload.wikimedia.org/wikipedia/commons/1/1a/Enk_Logo.png](https://www.enkwirelessinc.com/images/logo.png)" width="30" />  | **ENK Wireless Portal** Telecom management portal for USA Based Networks and WiFi device. | [Visit](https://pos.enkwirelessinc.com) |
+| <img src="(https://www.enkwirelessinc.com/images/logo.png)" width="30" />  | **ENK Wireless Portal** Telecom management portal for USA Based Networks and WiFi device. | [Visit](https://pos.enkwirelessinc.com) |
 
 
 </br>
