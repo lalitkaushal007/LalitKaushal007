@@ -172,14 +172,12 @@
 <div align="center">
 
 <!-- Alternative 1: Different theme -->
-[![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalitkaushal007&theme=radical&show_icons=true)](https://github.com/lalitkaushal007)
+[![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalitkaushal007&show_icons=true&theme=radical&hide_border=true)](https://github.com/lalitkaushal007)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lalitkaushal007&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-<!-- Alternative 2: Compact streak -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lalitkaushal007&theme=dark)](https://git.io/streak-stats)
 
 <!-- Alternative 3: Simple language stats -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkaushal007&layout=compact&theme=dark)](https://github.com/lalitkaushal007)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkaushal007&layout=compact&theme=radical&hide_border=true)](https://github.com/lalitkaushal007)
 </div>
 
 
@@ -205,6 +203,14 @@
 </br>
 </br>
 </br>
+
+### 📊 GitHub Activity
+
+![Profile Views](https://komarev.com/ghpvc/?username=lalitkaushal007&color=blue)
+![Repositories](https://badges.strrl.dev/repos/lalitkaushal007?color=blue)
+![Followers](https://badges.strrl.dev/followers/lalitkaushal007?color=blue)
+
+**Check out my [repositories](https://github.com/lalitkaushal007?tab=repositories) for my latest work!**
 
 
 <img src="https://github.com/lalitkaushal007/lalitkaushal007/blob/main/header_.jpg" />
