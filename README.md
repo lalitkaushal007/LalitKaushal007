@@ -16,7 +16,8 @@
   My expertise includes <b>RESTful API design, database optimization, and production support</b> with zero downtime.<br>
   Proficient in <b>Visual Studio, SSMS, Git, and Postman</b> with front-end experience in <b>HTML, CSS, JS, and Bootstrap</b>.<br>
   <b>Solved coding challenges on <a href="https://leetcode.com/u/lalit007/">LeetCode</a>, <a href="https://www.hackerrank.com/profile/lks007">HackerRank</a>, and <a href="https://www.codechef.com/users/lks231216">CodeChef</a></b> with 5⭐ in <b>C#, Java, and Python</b>.<br>
-  Certified by <b>Google, IBM, Accenture, and Great Learning</b> to strengthen modern development practices.<br>
+  Certified by <b>Google, IBM, Accenture, and Great Learning</b> to strengthen modern development practices.
+  </br>
   💡 <i style="color:#00F2FE;">"Understand deeply, build efficiently, and keep improving...🚀"</i>
 </p>
 
@@ -29,12 +30,18 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalit-kaushal-7862501b5/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/LalitKaushalSingh)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/yourusername)
+</br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-black?logo=vercel&logoColor=white)](https://lks-portfolio-five.vercel.app/)
+![Repositories](https://badges.strrl.dev/repos/lalitkaushal007?color=blue)
+![Followers](https://img.shields.io/github/followers/lalitkaushal007?color=blue&label=Followers&logo=github)
+![Stars](https://img.shields.io/github/stars/lalitkaushal007?color=blue&label=Stars&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=lalitkaushal007&color=blue)
 
-
+  💡 <i style="color:#00F2FE;">"
 
 ### ⚡ Fun Fact
 I started with Electrical Engineering but found my true passion in writing code that powers the digital world!
-
+"</i>
 </div>
 </br>
 
@@ -44,17 +51,7 @@ I started with Electrical Engineering but found my true passion in writing code 
 </br>
 </br>
 </br>
-### 📊 GitHub Activity
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-black?logo=vercel&logoColor=white)](https://lks-portfolio-five.vercel.app/)
-![Repositories](https://badges.strrl.dev/repos/lalitkaushal007?color=blue)
-![Followers](https://img.shields.io/github/followers/lalitkaushal007?color=blue&label=Followers&logo=github)
-![Stars](https://img.shields.io/github/stars/lalitkaushal007?color=blue&label=Stars&logo=github)
-![Profile Views](https://komarev.com/ghpvc/?username=lalitkaushal007&color=blue)
-
-</br>
-</br>
-</br>
 
 
 
