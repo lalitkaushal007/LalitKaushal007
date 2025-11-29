@@ -20,11 +20,16 @@
   💡 <i style="color:#00F2FE;">"Understand deeply, build efficiently, and keep improving...🚀"</i>
 </p>
 
+
 ### 🌐 Connect with Me:
+<div align="center">
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:baba231216.email@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?logo=twitter&logoColor=white)](https://x.com/Lalit231216?t=Z1_m1J7YNO1a7D8Dj9C0Vw&s=09) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalit-kaushal-7862501b5/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/LalitKaushal)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/LalitKaushalSingh)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-000?style=for-the-badge)](https://lks-portfolio-five.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/yourusername)
+</div>
 </br>
 </br>
 </br>
@@ -40,8 +45,8 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Wi-Fi_logo.png" width="30" /> **WIFLY Management Portal** | Wi-Fi device portal with activation, recharges, plan verification, invoicing, and reporting. | [Visit](https://pos.wifly.us) |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Enk_Logo.png" width="30" /> **ENK Wireless Portal** | Telecom management portal for device and plan management. | [Visit](https://pos.enkwirelessinc.com) |
+| <img src="https://wifly.us/cdn/shop/files/Logo.png?v=1743073925&width=180" width="30" /> **WIFLY Management Portal** | Wi-Fi device portal with activation, recharges, plan verification, invoicing, and reporting. | [Visit](https://pos.wifly.us) |
+| <img src="[https://upload.wikimedia.org/wikipedia/commons/1/1a/Enk_Logo.png](https://www.enkwirelessinc.com/images/logo.png)" width="30" /> **ENK Wireless Portal** | Telecom management portal for device and plan management. | [Visit](https://pos.enkwirelessinc.com) |
 
 
 </br>
@@ -171,12 +176,8 @@
 
 <div align="center">
 
-<!-- Alternative 1: Different theme -->
 [![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalitkaushal007&show_icons=true&theme=radical&hide_border=true)](https://github.com/lalitkaushal007)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lalitkaushal007&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-
-<!-- Alternative 3: Simple language stats -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkaushal007&layout=compact&theme=radical&hide_border=true)](https://github.com/lalitkaushal007)
 </div>
 
@@ -188,8 +189,20 @@
 </br>
 </br>
 </br>
+### 📈 Coding Activity
 
+<div align="center">
 
+[![Lalit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lalitkaushal007&theme=github-compact&hide_border=true)](https://github.com/lalitkaushal007)
+
+</div>
+</br>
+</br>
+</br>
+  ───────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ─────────────────────────────────────
+</br>
+</br>
+</br>
 
 ### 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=lalitkaushal007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -209,8 +222,20 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=lalitkaushal007&color=blue)
 ![Repositories](https://badges.strrl.dev/repos/lalitkaushal007?color=blue)
 ![Followers](https://badges.strrl.dev/followers/lalitkaushal007?color=blue)
-
+</br>
+</br>
 **Check out my [repositories](https://github.com/lalitkaushal007?tab=repositories) for my latest work!**
+</br>
+</br>
+</br>
+<div align="center">
+
+### ⚡ Fun Fact
+I started with Electrical Engineering but found my true passion in writing code that powers the digital world!
+
+</div>
+</br>
+</br>
 
 
 <img src="https://github.com/lalitkaushal007/lalitkaushal007/blob/main/header_.jpg" />
