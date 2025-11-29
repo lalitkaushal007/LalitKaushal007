@@ -176,6 +176,8 @@ I started with Electrical Engineering but found my true passion in writing code 
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <table>
   <tr>
     <td align="center">
