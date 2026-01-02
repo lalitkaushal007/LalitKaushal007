@@ -164,15 +164,18 @@ I started with Electrical Engineering but found my true passion in writing code 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalitkaushal007&theme=dark" alt="GitHub Streak" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lalitkaushal007&theme=dark" alt="Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lalitkaushal007&theme=dark&utcOffset=8" alt="Productive Time" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkaushal007&theme=dark&layout=compact&langs_count=8" alt="Top Languages" />
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lalitkaushal007&theme=dark" alt="Most Commit Language" />
     </td>
-     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=lalitkaushal007&theme=dark&count_private=true&show_icons=true" alt="GitHub Stats" />
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lalitkaushal007&theme=dark" alt="Repos per Language" />
     </td>
   </tr>
 </table>
