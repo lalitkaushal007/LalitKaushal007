@@ -180,7 +180,7 @@ I started with Electrical Engineering but found my true passion in writing code 
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalitkaushal007&theme=dark" alt="Streak" />
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalitkaushal007&theme=dark" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -214,9 +214,7 @@ I started with Electrical Engineering but found my true passion in writing code 
 
 
 <tr>
-  <td colspan="2" align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=lalitkaushal007&theme=darkhub&row=1&column=6" alt="GitHub Trophies" />
-  </td>
+ ![](https://github-profile-trophy.vercel.app/?username=lalitkaushal007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </tr>
 
 
