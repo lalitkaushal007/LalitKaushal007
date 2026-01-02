@@ -212,10 +212,8 @@ I started with Electrical Engineering but found my true passion in writing code 
 
 ### 🏆 GitHub Trophies:
 
-
-<tr>
  ![](https://github-profile-trophy.vercel.app/?username=lalitkaushal007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-</tr>
+
 
 
 </br>
