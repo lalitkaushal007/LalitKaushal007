@@ -1,12 +1,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=307&color=gradient&text=Hello👋%20I'm%20Lalit%20Kaushal&reversal=false&fontColor=008080&textBg=false&fontSize=70&animation=scaleIn&desc=.NET%20Developer%20|%20Solutions%20Architect%20|%20Tech%20Enthusiast&descAlign=73&descSize=19&fontAlign=52&fontAlignY=50"/>
 
-<h2 align="center" style="color:#00F2FE; text-shadow: 0 0 10px #00F2FE, 0 0 20px #FF00F7;">═══════════════ Hello there! 👋 I'm Lalit Kaushal ═══════════════</h2>
-
-
-<p align="center" style="font-size:20px;">
-  <b>.NET Developer | Solutions Architect | Tech Enthusiast</b>
-</p>
 <p align="center">
   <b>B.Tech (Electrical & Electronics), NIET | Certified by Google, IBM, Accenture, Great Learning</b>
 </p>
@@ -208,21 +202,8 @@ I started with Electrical Engineering but found my true passion in writing code 
 
 </br>
 </br>
-  ──────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ────────────────────────────────────
-</br>
-</br>
+  ────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ──────────────────────────────────
 
-
-### 🏆 GitHub Trophies:
-
- ![](https://github-profile-trophy.vercel.app/?username=lalitkaushal007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-
-</br>
-</br>
-  ──────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ────────────────────────────────────
-</br>
 </br>
 </br>
 
