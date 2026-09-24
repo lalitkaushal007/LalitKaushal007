@@ -36,7 +36,7 @@
 
   <i style="color:#00F2FE;">
 
-### ⚡ Fun Fact
+### ⚡ Fun Fact 
 I started with Electrical Engineering but found my true passion in writing code that powers the digital world!
 </i>
 </div>
