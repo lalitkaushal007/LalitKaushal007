@@ -1,215 +1,181 @@
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=307&color=gradient&text=Hello👋%20I'm%20Lalit%20Kaushal&reversal=false&fontColor=008080&textBg=false&fontSize=70&animation=scaleIn&desc=.NET%20Developer%20|%20Solutions%20Architect%20|%20Tech%20Enthusiast&descAlign=73&descSize=19&fontAlign=52&fontAlignY=50"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Lalit+Kaushal;Software+Developer+%7C+.NET;Backend+Engineer;Telecom+%26+Device+Management" alt="Typing SVG" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-API-00C7B7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Phone-%2B91--9120602649-0A66C2?style=flat-square&logo=phone&logoColor=white" />
+  <a href="mailto:baba231216@gmail.com">
+    <img src="https://img.shields.io/badge/Email-baba231216%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/lalit-kaushal-7862501b5">
+    <img src="https://img.shields.io/badge/LinkedIn-Lalit%20Kaushal-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/lalitkaushal007">
+    <img src="https://img.shields.io/badge/GitHub-lalitkaushal007-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=lalitkaushal007&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+
+</div>
+
+---
+
+## 👋 About Me
+
+I’m a passionate **.NET Software Developer** with experience building scalable telecom and device management platforms using **ASP.NET, C#, REST APIs, SQL Server, and PostgreSQL**.
+
+I enjoy developing backend systems that are:
+- reliable and production-ready
+- secure and scalable
+- optimized for performance
+- easy to integrate with third-party services
+
+> Currently focused on building robust enterprise applications, automating workflows, and optimizing backend systems for real-world operations.
+
+---
+
+## 💼 Professional Experience
+
+### Software Developer (.NET) — Inventia Technology Consultants
+- Built an **SLA Management & Reporting System** using **ASP.NET Core, C#, PostgreSQL, and REST APIs**
+- Implemented Excel upload/download, validation, preview, and confirmation workflows
+- Developed SLA dashboards and reports for monitoring operational performance
+
+### Associate Software Developer (.NET) — ENK Technologies
+- Developed **UTel** telecom portal with features like SIM activation, recharge processing, invoice generation, and bulk operations
+- Integrated APIs between multiple production environments with centralized authentication
+- Automated backend workflows and reduced manual operational load
+
+### Associate Software Developer (.NET) — Virtuzo Infosystems Pvt Ltd
+- Built a **WIFLY Device Management Portal** for device activation, reporting, recharge, and plan verification
+- Designed optimized SQL Server databases with stored procedures and functions
+- Developed and maintained RESTful APIs for internal and external integrations
+
+### .NET Developer Intern — Virtuzo Infosystems Pvt Ltd
+- Created APIs and import/export modules for telecom platforms
+- Documented endpoints with **Swagger** and validated them via **Postman**
+- Supported production systems during live operations and release windows
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- C#
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
+- jQuery
+
+### Frameworks & Backend
+- ASP.NET
+- ASP.NET Core
+- MVC
+- Web Forms
+- ADO.NET
+- Entity Framework
+- RESTful Web APIs
+
+### Database
+- SQL Server / MS SQL
+- PostgreSQL
+- MySQL
+
+### Tools
+- Visual Studio
+- VS Code
+- Git
+- GitHub
+- Postman
+- Swagger
+- Jira
+
+---
+
+## 🚀 Featured Projects
+
+### E-Library Management System
+A full-stack web app built using **ASP.NET Framework**, **C#**, **SQL Server**, **Bootstrap**, and **jQuery**.
+
+Features:
+- User authentication
+- Resource management
+- Dynamic search
+- Responsive design
+- Improved database querying
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=lalitkaushal007&show_icons=true&theme=radical&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkaushal007&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+## 🧠 Skills & Strengths
+
+- REST API Development
+- .NET Core / ASP.NET Development
+- Database Design & Performance Optimization
+- System Integration
+- Production Deployment Support
+- Problem Solving
+- Team Collaboration
+- SDLC / Agile / Scrum
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology (Electrical and Electronics Engineering)**  
+Noida Institute of Engineering and Technology (AKTU), Greater Noida  
+June 2019 – July 2023
+
+---
+
+## 🏆 Achievements
+
+- Solved 300+ coding problems across LeetCode, HackerRank, and CodeChef
+- Earned 5-star ratings in C# and .NET on HackerRank
+- Completed the MountBlue Coding Challenge with 100% completion
+- Completed certifications in:
+  - .NET Fundamentals
+  - Data, Data Everywhere
+  - Python for Data Science
+
+---
+
+## 📬 Connect With Me
+
+- Email: baba231216@gmail.com
+- Phone: +91 9120602649
+- LinkedIn: https://linkedin.com/in/lalit-kaushal-7862501b5
+- GitHub: https://github.com/lalitkaushal007
+
+---
 
 <p align="center">
-  <b>B.Tech (Electrical & Electronics), NIET | Certified by Google, IBM, Accenture, Great Learning</b>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="350" />
 </p>
 
-<p align="center" style="color:#EAEAEA; font-size:17px;">
-  I'm a passionate <b style="color:#00F2FE;">.NET Software Developer</b> focused on building secure, high-performance, and scalable web applications.<br>
-  I specialize in <b style="color:#00F2FE;">C#, ASP.NET, ADO.NET, and SQL Server</b>, delivering clean and efficient backend architectures.<br>
-  A <b>B.Tech (Electrical & Electronics)</b> graduate from <b>NIET (AKTU)</b>, I discovered my passion for programming early on.<br>
-  I’ve contributed to projects like <b>BOOM, T-Mobile,</b> and <b>WIFLY Management Portal</b>, optimizing APIs and backend logic.<br>
-  My expertise includes <b>RESTful API design, database optimization, and production support</b> with zero downtime.<br>
-  Proficient in <b>Visual Studio, SSMS, Git, and Postman</b> with front-end experience in <b>HTML, CSS, JS, and Bootstrap</b>.<br>
-  <b>Solved coding challenges on <a href="https://leetcode.com/u/lalit007/">LeetCode</a>, <a href="https://www.hackerrank.com/profile/lks007">HackerRank</a>, and <a href="https://www.codechef.com/users/lks231216">CodeChef</a></b> with 5⭐ in <b>C#, Java, and Python</b>.<br>
-  Certified by <b>Google, IBM, Accenture, and Great Learning</b> to strengthen modern development practices.
-  </br>
-  💡 <i style="color:#00F2FE;">"Understand deeply, build efficiently, and keep improving...🚀"</i>
-</p>
-
-<div align="center">
-  
-### 🌐 Connect with Me:
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:baba231216@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?logo=twitter&logoColor=white)](https://x.com/Lalit231216?t=Z1_m1J7YNO1a7D8Dj9C0Vw&s=09) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalit-kaushal-7862501b5/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mr_lks_rajput007/?hl=en)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/lalitkaushal007)
-</br>
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-black?logo=vercel&logoColor=white)](https://lks-portfolio-five.vercel.app/)
-![Repositories](https://badges.strrl.dev/repos/lalitkaushal007?color=blue)
-![Followers](https://img.shields.io/github/followers/lalitkaushal007?color=blue&label=Followers&logo=github)
-![Stars](https://img.shields.io/github/stars/lalitkaushal007?color=blue&label=Stars&logo=github)
-![Profile Views](https://komarev.com/ghpvc/?username=lalitkaushal007&color=blue)
-
-  <i style="color:#00F2FE;">
-
-### ⚡ Fun Fact 
-I started with Electrical Engineering but found my true passion in writing code that powers the digital world!
-</i>
-</div>
-</br>
-<div align="center">
-
-
-  ──────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ────────────────────────────────────
-</br>
-</br>
-
-<h3 style="color:#FF00F7; text-shadow:0 0 5px #FF00F7;">💻 Tech Stack</h3>
-<div style="display:flex; flex-wrap:wrap; gap:8px;">
-
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-%230078D4.svg?style=flat&logo=.net&logoColor=white)
-![ADO.NET](https://img.shields.io/badge/ADO.NET-%235C2D91.svg?style=flat&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
-![IIS](https://img.shields.io/badge/IIS-0078D7?style=flat&logo=microsoft&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-.NET%20Language%20Integrated%20Query-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-</div>
-
-</br>
-</br>
-  ──────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ────────────────────────────────────
-</br>
-</br>
-
-
-### 🚀 Projects
-
-| Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
-| <img src="https://wifly.us/cdn/shop/files/Logo.png?v=1743073925&width=180" width="30" />|  **WIFLY Management Portal**  Comprehensive Wi-Fi device portal with activation, recharges, plan verification, invoicing, and reporting features. | `.NET` `HTML,CSS,Js` `SQL` `REST API's` | [🌐 Visit](https://pos.wifly.us) |
-| <img src="https://www.enkwirelessinc.com/images/logo.png" width="30" /> |  **ENK Wireless Portal** Telecom management portal for USA Based Networks and WiFi device management with real-time monitoring. | `.NET` `HTML,CSS,Js` `SQL` `REST/Payment API's` | [🌐 Visit](https://pos.enkwirelessinc.com) |
-
-
-</br>
-</br>
-  ──────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ────────────────────────────────────
-
-</br>
-</br>
-
-
-<h3 style="color:#FF00F7; text-shadow:0 0 5px #FF00F7;">🏅 Achievements & Certifications</h3>
-
-<div style="display:flex; align="center" flex-wrap:wrap; gap:10px;">
-<a href="https://cloud.google.com/certification/data-engineer"><img src="https://img.shields.io/badge/Google-Professional%20Data%20Engineer-4285F4?style=for-the-badge&logo=google&logoColor=white"></a>
-<a href="https://www.ibm.com/certify"><img src="https://img.shields.io/badge/IBM-Full%20Stack%20Development-051E3E?style=for-the-badge&logo=ibm&logoColor=white"></a>
-<a href="https://www.accenture.com/"><img src="https://img.shields.io/badge/Accenture-Advanced%20.NET%20Developer-0A0A0A?style=for-the-badge&logo=accenture&logoColor=white"></a>
-<a href="https://www.greatlearning.in/"><img src="https://img.shields.io/badge/Great%20Learning-Cloud%20%26%20DevOps-FF5733?style=for-the-badge&logo=greatlearning&logoColor=white"></a>
-<a href="https://leetcode.com/lalitkaushal007/"><img src="https://img.shields.io/badge/LeetCode-300%2B%20Challenges-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white"></a>
-<a href="https://www.hackerrank.com/lalitkaushal007"><img src="https://img.shields.io/badge/HackerRank-5%20Star%20Rating-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
-<a href="https://www.codechef.com/users/lalitkaushal007"><img src="https://img.shields.io/badge/CodeChef-5%20Star%20Rating-EC6814?style=for-the-badge&logo=codechef&logoColor=white"></a>
-</div>
-
-</br>
-</br>
-
-  ──────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ────────────────────────────────────
-</br>
-</br>
-
-
-
-<h3 style="color:#FF00F7; text-shadow:0 0 5px #FF00F7;">🎮 Fun & Interests</h3>
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-<a href="https://leetcode.com/lalitkaushal007/"><img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white"></a>
-<a href="https://www.hackerrank.com/lalitkaushal007"><img src="https://img.shields.io/badge/HackerRank-Competitive%20Coding-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
-<a href="https://www.codechef.com/users/lalitkaushal007"><img src="https://img.shields.io/badge/CodeChef-Coding%20Contests-EC6814?style=for-the-badge&logo=codechef&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Photography-Hobby-FF69B4?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Traveling-Adventure-1E90FF?style=for-the-badge&logo=airbnb&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Music-Hobby-9400D3?style=for-the-badge&logo=spotify&logoColor=white"></a>
-</div>
-
-</br>
-</br>
-  ───────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ─────────────────────────────────────
-</br>
-</br>
-
-
-
-<h3 style="color:#00F2FE; text-shadow:0 0 5px #00F2FE;">🤖 AI Tools & Technologies</h3>
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-<a href="https://chat.openai.com/"><img src="https://img.shields.io/badge/ChatGPT-OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white"></a>
-<a href="https://openai.com/dall-e"><img src="https://img.shields.io/badge/DALL·E-OpenAI-F6D258?style=for-the-badge&logo=openai&logoColor=black"></a>
-<a href="https://www.midjourney.com/"><img src="https://img.shields.io/badge/MidJourney-AI-FF0080?style=for-the-badge"></a>
-<a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/Claude-Anthropic-4B8BBE?style=for-the-badge&logo=anthropic&logoColor=white"></a>
-<a href="https://bard.google.com/"><img src="https://img.shields.io/badge/Bard-Google-4285F4?style=for-the-badge&logo=google&logoColor=white"></a>
-<a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/GitHub%20Copilot-Microsoft-00C8FF?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://stability.ai/stable-diffusion"><img src="https://img.shields.io/badge/Stable%20Diffusion-AI-FBAF00?style=for-the-badge"></a>
-<a href="https://openai.com/research/whisper"><img src="https://img.shields.io/badge/Whisper-OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white"></a>
-</div>
-
-
-</br>
-</br>
-  ──────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ────────────────────────────────────
-</br>
-</br>
-
-### 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lalitkaushal007&theme=dark" alt="Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lalitkaushal007&theme=dark&utcOffset=8" alt="Productive Time" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lalitkaushal007&theme=dark" alt="Most Commit Language" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lalitkaushal007&theme=dark" alt="Repos per Language" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalitkaushal007&theme=dark" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-
-</br>
-</br>
-  ──────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ────────────────────────────────────
-</br>
-</br>
-
-
-  
-### 📈 Coding Activity
-
-<tr>
-  <td colspan="2" align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lalitkaushal007&theme=dark" alt="Activity Graph" />
-  </td>
-</tr>
-
-
-</br>
-</br>
-  ────────────────────────────────── ✦  ✦ ✦✦✦ ✦  ✦ ──────────────────────────────────
-
-</br>
-</br>
-
-
-
-<img src="https://github.com/lalitkaushal007/lalitkaushal007/blob/main/header_.jpg" />
-
-<img src="https://img.shields.io/badge/═════════════════════════════════════════════════════════════ThankYou_for_Visiting═════════════════════════════════════════════════════════-008080.svg?style=flat&logoColor=#008080">
-</div>
+> “I build robust systems, solve real problems, and turn ideas into scalable technology.”
