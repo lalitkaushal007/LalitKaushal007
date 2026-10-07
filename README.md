@@ -1,20 +1,19 @@
 <div align="center">
 
 ```
-███████████████████████████████████████████████████████████████████████
-█                                                                     █
-█   ██╗      █████╗ ██╗     ██╗████████╗    ██╗  ██╗ █████╗ ██╗   ██╗█
-█   ██║     ██╔══██╗██║     ██║╚══██╔══╝    ██║ ██╔╝██╔══██╗██║   ██║█
-█   ██║     ███████║██║     ██║   ██║       █████╔╝ ███████║██║   ██║█
-█   ██║     ██╔══██║██║     ██║   ██║       ██╔═██╗ ██╔══██║██║   ██║█
-█   ███████╗██║  ██║███████╗██║   ██║    ██╗██║  ██╗██║  ██║╚██████╔╝█
-█   ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝   ╚═╝    ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ █
-█                                                                     █
-█                 RECRUITER-FOCUSED TALENT PROFILE                   █
-█              📍 Building Enterprise Scale Systems                   █
-█         Proven Track Record | Production Ready | Hire Me            █
-█                                                                     █
-███████████████████████████████████████████████████████████████████████
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║                  ██╗      █████╗ ██╗     ██╗████████╗                       ║
+║                  ██║     ██╔══██╗██║     ██║╚══██╔══╝                       ║
+║                  ██║     ███████║██║     ██║   ██║                          ║
+║                  ██║     ██╔══██║██║     ██║   ██║                          ║
+║                  ███████╗██║  ██║███████╗██║   ██║                          ║
+║                  ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝   ╚═╝                          ║
+║                                                                              ║
+║                  🚀 Full-Stack .NET Developer 🚀                            ║
+║              Telecom | Device Management | Enterprise Systems                ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -23,418 +22,394 @@
 
 <div align="center">
 
-# 👨‍💻 LALIT KAUSHAL
-
-### **Full-Stack .NET Developer | Backend Specialist | Telecom & Device Management Expert**
-
-**📍 Noida, Uttar Pradesh | 📱 +91 9120602649 | 📧 baba231216@gmail.com**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Available+for+Remote+%26+Full-Time+Roles;Ready+to+Scale+Enterprise+Systems;3%2B+Years+Production+Experience" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Welcome+to+Lalit+Kaushal's+Developer+Profile;Building+Scalable+Enterprise+Systems;3%2B+Years+Production+Experience;.NET+Specialist+%7C+Backend+Engineer" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🎯 WHY HIRE LALIT?
+## 👋 About Me
 
-<table align="center" width="100%">
-<tr>
-  <td align="center" width="33%">
-    <img src="https://img.shields.io/badge/PROVEN-6%2B%20Production%20Systems-FF6B35?style=for-the-badge&logoColor=white" />
-    <br/>
-    <sub>Deployed and maintained in production</sub>
-  </td>
-  <td align="center" width="33%">
-    <img src="https://img.shields.io/badge/RELIABLE-99.9%25%20Uptime-4CAF50?style=for-the-badge&logoColor=white" />
-    <br/>
-    <sub>Zero downtime deployments</sub>
-  </td>
-  <td align="center" width="33%">
-    <img src="https://img.shields.io/badge/CERTIFIED-7%20Credentials-2196F3?style=for-the-badge&logoColor=white" />
-    <br/>
-    <sub>Industry recognized</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="33%">
-    <img src="https://img.shields.io/badge/SKILLED-300%2B%20DSA%20Problems-FF9800?style=for-the-badge&logoColor=white" />
-    <br/>
-    <sub>Expert problem solver</sub>
-  </td>
-  <td align="center" width="33%">
-    <img src="https://img.shields.io/badge/OPTIMIZED-70%25%20Automation-9C27B0?style=for-the-badge&logoColor=white" />
-    <br/>
-    <sub>Reduces manual workload</sub>
-  </td>
-  <td align="center" width="33%">
-    <img src="https://img.shields.io/badge/PERFORMER-5%20Star%20HackerRank-00BCD4?style=for-the-badge&logoColor=white" />
-    <br/>
-    <sub>Top-tier competitive rating</sub>
-  </td>
-</tr>
-</table>
+**I'm Lalit Kaushal** — a dedicated **.NET Software Developer** with **3+ years** of hands-on experience building scalable, production-grade systems for telecom and device management platforms.
+
+I specialize in:
+- **Backend Architecture** with ASP.NET Core and C#
+- **RESTful API Development** & System Integration
+- **Database Performance Optimization** on SQL Server & PostgreSQL
+- **Production-Grade Code** that scales reliably
+- **Operational Excellence** with zero-downtime deployments
+
+> 💡 **My Philosophy:** Write clean, scalable code. Build reliable systems. Optimize relentlessly.
 
 ---
 
-## 📋 QUICK FACTS FOR RECRUITERS
-
-| Metric | Value | Proof |
-|--------|-------|-------|
-| **Experience Level** | 3+ Years Production | Inventia, ENK, Virtuzo |
-| **Primary Stack** | .NET • C# • SQL Server | 100% Professional |
-| **Work Authorization** | India-based | Available Immediately |
-| **Employment Type** | Full-Time / Remote | Flexible |
-| **Salary Expectation** | Competitive | Negotiable |
-| **Notice Period** | Immediate | Ready to Join |
-| **Availability** | Full-Time | No Constraints |
-| **Time Zone** | IST (UTC +5:30) | Flexible Hours |
-
----
-
-## 💼 EMPLOYMENT HISTORY AT A GLANCE
-
-### **Current: Software Developer (.NET)**
-**Inventia Technology Consultants** | July 2026 - Present
-
-- 🏢 Enterprise SLA Management Platform
-- 📊 1M+ Records Processing Monthly
-- 📈 Built dashboards & automated workflows
-- 🔧 **Tech:** ASP.NET Core, PostgreSQL, REST APIs
-
-### **Previous: Associate Software Developer (.NET)**
-**ENK Technologies** | Oct 2025 - July 2026
-
-- 🌐 USA Telecom Portal (UTel)
-- 📱 SIM Activation & Recharge System
-- 🔌 Cross-server API Integration
-- 🔧 **Tech:** ASP.NET, SQL Server, REST APIs
-
-### **Previous: Associate Software Developer (.NET)**
-**Virtuzo Infosystems** | Aug 2024 - Sep 2025
-
-- 📱 WIFLY Device Management Portal
-- 🎯 10K+ Active Device Management
-- 🗄️ Database Architecture & Optimization
-- 🔧 **Tech:** ASP.NET MVC, SQL Server, Stored Procedures
-
-### **Internship: .NET Developer Intern**
-**Virtuzo Infosystems** | Feb 2024 - July 2024
-
-- 🚀 USA Telecoms BOOM Commission Portal
-- 📊 CRUD APIs & Data Import/Export
-- 🌙 24/7 Production Support
-- 🔧 **Tech:** ASP.NET, SQL Server, ADO.NET
-
----
-
-## 🚀 STANDOUT PROJECTS FOR EVALUATION
-
-### Project #1: SLA Management & Reporting System ⭐⭐⭐⭐⭐
-
-**Why This Matters to Recruiters:**
-- ✅ Shows ability to handle **enterprise-scale data** (1M+ records)
-- ✅ Demonstrates **full SDLC** knowledge (design → deployment)
-- ✅ Proves **database optimization** skills
-- ✅ Exhibits **API integration** expertise
-
-**Quick Stats:**
-- 📊 Processes monthly SLA data for multiple organizations
-- 🔄 Automated validation pipeline (Excel upload/download)
-- 📈 Interactive dashboards with real-time filters
-- ⚡ PostgreSQL stored procedures for automation
-- 🔐 Role-based access control implementation
-
-**Technologies Used:**
-`ASP.NET Core` `C#` `PostgreSQL` `REST APIs` `LINQ` `Entity Framework`
-
----
-
-### Project #2: UTel Telecom Portal ⭐⭐⭐⭐⭐
-
-**Why This Matters to Recruiters:**
-- ✅ Shows **cross-server integration** complexity
-- ✅ Demonstrates **production deployment** experience
-- ✅ Proves **API design & integration** skills
-- ✅ Exhibits **operational excellence** mindset
-
-**Quick Stats:**
-- 🌐 USA-based enterprise platform
-- 📱 SIM activation & recharge engine
-- 💳 Invoice generation system
-- 🔌 API bridge between separate production servers
-- ⚙️ Automated operational workflows (70% reduction in manual work)
-
-**Technologies Used:**
-`ASP.NET` `C#` `SQL Server` `REST APIs` `IIS Deployment`
-
----
-
-### Project #3: WIFLY Device Management Portal ⭐⭐⭐⭐
-
-**Why This Matters to Recruiters:**
-- ✅ Shows **database architecture** expertise
-- ✅ Demonstrates **system scalability** at 10K+ devices
-- ✅ Proves **performance optimization** capabilities
-- ✅ Exhibits **third-party API integration** skills
-
-**Quick Stats:**
-- 📱 Manages 10K+ active devices
-- 🗄️ Optimized with 50+ stored procedures
-- 🔒 Implemented RBAC & encryption
-- 📊 Comprehensive reporting module
-- ⚡ 25% database query performance improvement
-
-**Technologies Used:**
-`ASP.NET MVC` `C#` `SQL Server` `Stored Procedures` `REST APIs`
-
----
-
-## 🎓 TECHNICAL CREDENTIALS
-
-### **Core Competencies** (Ranked by Proficiency)
-
-| Skill | Proficiency | Proof |
-|-------|-------------|-------|
-| C# | ⭐⭐⭐⭐⭐ Expert | 3+ Years Production |
-| ASP.NET / ASP.NET Core | ⭐⭐⭐⭐⭐ Expert | 6+ Systems Deployed |
-| SQL Server | ⭐⭐⭐⭐⭐ Expert | 1M+ Records Optimized |
-| REST API Design | ⭐⭐⭐⭐⭐ Expert | 50+ APIs Deployed |
-| Entity Framework | ⭐⭐⭐⭐ Advanced | ORM Optimization Specialist |
-| Database Performance | ⭐⭐⭐⭐⭐ Expert | 25% Query Improvement Track Record |
-| System Integration | ⭐⭐⭐⭐ Advanced | Cross-server Integration Proven |
-| ADO.NET | ⭐⭐⭐⭐ Advanced | Production Implementation |
-| PostgreSQL | ⭐⭐⭐⭐ Advanced | SLA System Architect |
-| JavaScript / jQuery | ⭐⭐⭐ Proficient | Frontend Integration |
-| Bootstrap / HTML5 / CSS3 | ⭐⭐⭐ Proficient | Responsive UI Development |
-| Git / GitHub | ⭐⭐⭐⭐⭐ Expert | Daily Version Control |
-| Visual Studio | ⭐⭐⭐⭐⭐ Expert | Primary Development Tool |
-| Postman / Swagger | ⭐⭐⭐⭐ Advanced | API Testing & Documentation |
-| IIS Deployment | ⭐⭐⭐⭐ Advanced | Production Server Management |
-| SDLC / Agile | ⭐⭐⭐⭐ Advanced | Jira, Scrum, Sprint Experience |
-
----
-
-## 🏆 COMPETITIVE PROGRAMMING & CERTIFICATIONS
-
-### Proof of Technical Excellence
+## 📊 Quick Stats
 
 <table align="center">
 <tr>
-  <td align="center">
-    <img src="https://img.shields.io/badge/LeetCode-300%2B%20Solved-FFA500?style=for-the-badge&logo=leetcode" />
-    <br/><b>LeetCode</b><br/><sub>Consistent Problem Solver</sub>
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/HackerRank-5%20Star%20C%23-2EC866?style=for-the-badge&logo=hackerrank" />
-    <br/><b>HackerRank</b><br/><sub>Top Tier Performance</sub>
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/CodeChef-5%20Star-FF6B35?style=for-the-badge&logo=codechef" />
-    <br/><b>CodeChef</b><br/><sub>Competitive Excellence</sub>
-  </td>
-  <td align="center">
-    <img src="https://img.shields.io/badge/MountBlue-100%25%20Completion-00BCD4?style=for-the-badge" />
-    <br/><b>MountBlue</b><br/><sub>Challenge Master</sub>
-  </td>
+  <td align="center"><b>🏢 Years Experience</b><br/>3+ Years</td>
+  <td align="center"><b>🚀 Systems Deployed</b><br/>6+ Production</td>
+  <td align="center"><b>📊 Data Processed</b><br/>1M+ Records/Month</td>
+</tr>
+<tr>
+  <td align="center"><b>⭐ Certifications</b><br/>7+ Credentials</td>
+  <td align="center"><b>🧩 Problems Solved</b><br/>300+ DSA</td>
+  <td align="center"><b>📱 Uptime SLA</b><br/>99.9% Reliability</td>
 </tr>
 </table>
 
-### Professional Certifications
+---
 
-- ✅ **.NET Fundamentals Certified** - Great Learning
-- ✅ **Data Analytics Fundamentals** - Google (Coursera)
-- ✅ **Python for Data Science** - IBM (Cognitive Class)
-- ✅ **Advanced Web Development** - Industry Recognized
+## 📍 Contact & Social
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-baba231216%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baba231216@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B91--9120602649-0A66C2?style=for-the-badge&logo=phone&logoColor=white)](tel:+919120602649)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lalit--kaushal--7862501b5-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lalit-kaushal-7862501b5)
+[![GitHub](https://img.shields.io/badge/GitHub-lalitkaushal007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lalitkaushal007)
+
+</div>
 
 ---
 
-## 📊 PERFORMANCE METRICS & IMPACT
+## 💼 Professional Experience
 
-### Quantifiable Results
+### 🌟 **Software Developer (.NET)**
+**Inventia Technology Consultants** | Noida Sector - 68, U.P. | July 2026 - Present
 
-| Project | Metric | Achievement |
-|---------|--------|-------------|
-| **SLA System** | Data Processing | 1M+ Records/Month |
-| **SLA System** | Automation | 60% Manual Work Reduction |
-| **UTel Portal** | Workflow Automation | 70% Task Reduction |
-| **WIFLY Portal** | Database Performance | 25% Query Speed Improvement |
-| **WIFLY Portal** | Device Management | 10K+ Active Users |
-| **All Systems** | System Uptime | 99.9% SLA Achievement |
-| **APIs Deployed** | Response Time | 45ms Average |
-| **Competitive Coding** | Problems Solved | 300+ Across Platforms |
+**SLA Management & Reporting System**
+- Architected **ASP.NET Core, C#, PostgreSQL** system processing 1M+ SLA records monthly
+- Engineered multi-stage validation pipeline: Excel upload → validation → staging → preview → confirmation
+- Developed interactive SLA dashboards with State, DISCOM, SLA Type, Month, Year, Status filtering
+- Automated SLA status calculation using PostgreSQL stored procedures
+- Reduced manual data processing by **60%** through intelligent automation
+- **Tech Stack:** ASP.NET Core | C# | PostgreSQL | REST APIs | LINQ | Entity Framework
 
 ---
 
-## 🌍 WORKING STYLE & CULTURE FIT
+### 🌐 **Associate Software Developer (.NET)**
+**ENK Technologies** | Noida Sector - 73, U.P. | Oct 2025 - July 2026
 
-### What I Bring to Your Team
-
-✅ **Self-Motivated** — No micromanagement needed  
-✅ **Problem Solver** — Tackles complex challenges head-on  
-✅ **Quality-Focused** — Ships production-ready code  
-✅ **Team Player** — Collaborates effectively across teams  
-✅ **Always Learning** — Stays current with tech trends  
-✅ **Communication** — Clear documentation and updates  
-✅ **Time Management** — Meets deadlines consistently  
-✅ **Accountability** — Takes ownership of solutions  
+**UTel Telecom Portal (USA-based Enterprise Platform)**
+- Designed & developed comprehensive USA telecom management portal
+- Implemented core features: SIM activation, recharge processing, invoice generation, bulk operations
+- Built **cross-server API integration** connecting ENK platform & UTel portal with centralized authentication
+- Engineered secure RESTful APIs for telecom services & internal system communication
+- Automated operational workflows reducing manual tasks by **70%**
+- Maintained multi-IIS production deployments ensuring zero-downtime releases
+- **Tech Stack:** ASP.NET | C# | SQL Server | REST APIs | IIS | OAuth2
 
 ---
 
-## 📋 EDUCATION & CREDENTIALS
+### 📱 **Associate Software Developer (.NET)**
+**Virtuzo Infosystems Pvt Ltd** | Noida Sector - 62, U.P. | Aug 2024 - Sep 2025
+
+**WIFLY Device Management Portal**
+- Built comprehensive device management platform handling 10K+ active devices
+- Implemented features: Device activation, recharge, reporting, plan verification, invoice generation
+- Designed optimized SQL Server database architecture with 50+ stored procedures
+- Developed 30+ RESTful APIs for third-party & inter-module integrations
+- Implemented role-based access control (RBAC) & data encryption
+- Achieved **25% database query performance improvement** through indexing & optimization
+- **Tech Stack:** ASP.NET MVC | C# | SQL Server | Stored Procedures | REST APIs
+
+---
+
+### 🚀 **Associate Software Developer (.NET)**
+**Virtuzo Infosystems Pvt Ltd** | Noida Sector - 62, U.P. | Aug 2024 - Sep 2025
+
+**Additional Projects During This Period**
+- Designed & developed multiple REST APIs for seamless third-party integrations
+- Managed API configurations & documentation for internal & external stakeholders
+- Enhanced database security with role-based access controls & strict password policies
+- Ensured GDPR/data privacy compliance across all systems
+
+---
+
+### 💻 **Developer Intern (.NET)**
+**Virtuzo Infosystems Pvt Ltd** | Noida Sector - 62, U.P. | Feb 2024 - July 2024
+
+**USA Telecoms Network BOOM Commission Portal**
+- Developed real-time commission tracking application
+- Built CRUD APIs & data import/export modules
+- Reduced API response time significantly (optimized query performance)
+- Documented all endpoints using Swagger; tested via Postman
+- Implemented database operations using ADO.NET with MS SQL Server
+- Provided **24/7 production support** ensuring zero downtime during releases
+- Resolved deployment issues & led post-shift support for critical fixes
+- **Tech Stack:** ASP.NET | C# | SQL Server | ADO.NET | Swagger | Postman
+
+---
+
+## 🚀 Featured Projects
+
+### 1️⃣ **SLA Management & Reporting System** (Current)
+
+| Aspect | Details |
+|--------|---------|
+| **Scale** | 1M+ SLA records processed monthly |
+| **Features** | Excel I/O • Multi-stage validation • Real-time dashboards • Auto-calculation |
+| **Impact** | 60% reduction in manual data processing |
+| **Tech** | ASP.NET Core • PostgreSQL • REST APIs • LINQ |
+| **Status** | 🟢 Live in Production |
+
+**Achievements:**
+- ✅ Implemented complex validation pipeline
+- ✅ Built interactive dashboards with advanced filtering
+- ✅ Automated SLA calculations via stored procedures
+- ✅ Maintained data integrity & audit logging
+
+---
+
+### 2️⃣ **UTel Telecom Portal** (Previous Role)
+
+| Aspect | Details |
+|--------|---------|
+| **Geographic Scope** | USA-based enterprise platform |
+| **Core Functions** | SIM Activation • Recharge • Invoicing • Bulk Operations |
+| **Integration** | Cross-server API bridge with centralized auth |
+| **Performance** | 45ms average API response time |
+| **Tech** | ASP.NET • SQL Server • REST APIs • IIS |
+| **Status** | 🟢 Live in Production |
+
+**Achievements:**
+- ✅ Seamless cross-platform API integration
+- ✅ Automated operational workflows (70% reduction)
+- ✅ Zero-downtime multi-server deployments
+- ✅ Enhanced user experience through optimization
+
+---
+
+### 3️⃣ **WIFLY Device Management Portal** (Previous Role)
+
+| Aspect | Details |
+|--------|---------|
+| **User Base** | 10K+ active devices managed |
+| **Capabilities** | Device Activation • Recharge • Reporting • Plan Verification |
+| **Database** | Optimized with 50+ stored procedures & functions |
+| **Performance** | 25% query speed improvement achieved |
+| **Tech** | ASP.NET MVC • SQL Server • REST APIs |
+| **Status** | 🟢 Live in Production |
+
+**Achievements:**
+- ✅ Architected scalable database design
+- ✅ Developed comprehensive reporting module
+- ✅ Implemented RBAC & data encryption
+- ✅ Optimized database performance & queries
+
+---
+
+### 4️⃣ **E-Library Management System** (Personal Project)
+
+| Aspect | Details |
+|--------|---------|
+| **Type** | Full-Stack Web Application |
+| **Features** | User Authentication • Resource Management • Dynamic Search |
+| **Frontend** | Responsive Bootstrap UI with jQuery |
+| **Backend** | ASP.NET Framework (C#) |
+| **Database** | SQL Server with optimized queries |
+| **Status** | 📚 Portfolio Showcase |
+
+**Achievements:**
+- ✅ End-to-end full-stack implementation
+- ✅ Responsive & intuitive UI design
+- ✅ Optimized SQL queries for performance
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+### **Backend & Frameworks** ⭐⭐⭐⭐⭐
+- **C#** — Expert level, 3+ years production experience
+- **ASP.NET Core** — Modern microservices & APIs
+- **ASP.NET MVC** — Enterprise web applications
+- **ASP.NET Web Forms** — Legacy system maintenance
+- **Entity Framework** — ORM optimization specialist
+- **ADO.NET** — Direct database access & optimization
+- **LINQ** — Advanced query optimization
+
+### **Database Technologies** ⭐⭐⭐⭐⭐
+- **MS SQL Server** — Expert in design, optimization, stored procedures
+- **PostgreSQL** — Advanced queries, JSON operations
+- **MySQL** — Database design & optimization
+- **Database Performance Tuning** — Indexes, execution plans, query optimization
+- **Stored Procedures & Functions** — 50+ complex procedures developed
+
+### **API Development** ⭐⭐⭐⭐⭐
+- **RESTful API Architecture** — Expert in design & implementation
+- **API Integration** — Cross-platform communication
+- **Authentication & Authorization** — OAuth2, role-based access control
+- **API Documentation** — Swagger/OpenAPI standards
+- **API Testing** — Postman, automated testing
+
+### **Frontend Technologies** ⭐⭐⭐⭐
+- **HTML5 / CSS3** — Semantic markup & responsive design
+- **JavaScript / jQuery** — Dynamic functionality & AJAX
+- **Bootstrap** — Responsive UI framework
+- **jQuery Validation** — Client-side form validation
+
+### **DevOps & Deployment** ⭐⭐⭐⭐
+- **Visual Studio** — Primary development environment
+- **VS Code** — Lightweight development & debugging
+- **Git / GitHub** — Version control & collaboration
+- **IIS (Internet Information Services)** — Production deployment & management
+- **SQL Server Management Studio** — Database administration
+- **Postman** — API testing & documentation
+
+### **Methodologies & Soft Skills** ⭐⭐⭐⭐⭐
+- **SDLC / Agile / Scrum** — Sprint-based development
+- **Jira** — Project management & issue tracking
+- **OOP Principles** — SOLID, design patterns
+- **Data Structures & Algorithms** — Advanced problem-solving
+- **System Design** — Scalable architecture
+- **Problem Solving** — Analytical & creative approach
+- **Teamwork** — Cross-functional collaboration
+- **Effective Communication** — Clear documentation & updates
+
+### **Additional Tools**
+- ChatGPT / GitHub Copilot — AI-assisted development
+- Swagger — API documentation
+- Postman — API testing
+- Computer Security Systems — Data protection & compliance
+
+---
+
+## 🎓 Education
 
 **Bachelor of Technology (Electrical & Electronics Engineering)**  
 Noida Institute of Engineering and Technology (AKTU)  
-June 2019 – July 2023
+Greater Noida, Uttar Pradesh, India  
+**Duration:** June 2019 - July 2023
 
-- Strong foundation in problem-solving
-- DSA expertise (300+ competitive programming problems)
-- Switched passion to software development
-- Continuous learner (multiple industry certifications)
-
----
-
-## 💬 TESTIMONIAL-READY PROFILE
-
-**For Hiring Managers:**
-- ✅ Ready for immediate onboarding
-- ✅ No visa sponsorship required
-- ✅ Flexible work arrangements
-- ✅ Remote-friendly & timezone-flexible
-- ✅ Proven delivery track record
-
-**For Technical Interviewers:**
-- ✅ Strong DSA fundamentals (300+ problems)
-- ✅ System design experience (6+ production systems)
-- ✅ Database optimization expertise
-- ✅ API design & integration specialist
-- ✅ Production deployment knowledge
-
-**For Project Leads:**
-- ✅ 24/7 production support experience
-- ✅ Zero-downtime deployment capability
-- ✅ Cross-functional team collaboration
-- ✅ Agile/Scrum methodology expert
-- ✅ Fast learner & adaptable
+- Strong foundation in problem-solving & algorithmic thinking
+- Transitioned passion to software development during studies
+- Continuous learner with multiple industry certifications
 
 ---
 
-## 📞 RECRUITMENT CONTACT
+## 🏆 Achievements & Recognition
+
+### 🧩 Competitive Programming Excellence
+
+| Platform | Achievement |
+|----------|-------------|
+| **LeetCode** | 300+ problems solved • Consistent solver |
+| **HackerRank** | ⭐⭐⭐⭐⭐ 5-Star Rating in C#, .NET, & Problem Solving |
+| **CodeChef** | ⭐⭐⭐⭐⭐ 5-Star Rating • 100+ challenges |
+| **MountBlue** | 100% Challenge Completion • Top performer |
+
+### 📜 Professional Certifications
+
+✅ **.NET Fundamentals** — Great Learning (Advanced C# & ASP.NET)  
+✅ **Data, Data Everywhere** — Google (Coursera)  
+✅ **Python for Data Science** — IBM (Cognitive Class)  
+✅ **Advanced Web Development** — Industry Recognized  
+
+### 📈 Production Metrics
+
+| Metric | Achievement |
+|--------|-------------|
+| Systems Deployed | 6+ live in production |
+| Monthly Records Processed | 1M+ |
+| API Response Optimization | 45ms average |
+| Database Query Improvement | 25% faster |
+| System Uptime SLA | 99.9% |
+| Workflow Automation | 70% task reduction |
+
+---
+
+## 💡 Core Competencies
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  ✓ Enterprise Application Development                  │
+│  ✓ RESTful API Design & Implementation                 │
+│  ✓ Database Architecture & Performance Tuning          │
+│  ✓ System Integration & Cross-Platform Communication   │
+│  ✓ Production Deployment & DevOps                      │
+│  ✓ Zero-Downtime Release Management                    │
+│  ✓ Problem Solving & Algorithmic Expertise             │
+│  ✓ Team Collaboration & Technical Leadership           │
+│  ✓ Agile/Scrum Methodology                             │
+│  ✓ Code Quality & Best Practices                       │
+│  ✓ Data Security & Compliance                          │
+│  ✓ Effective Communication                             │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### How to Reach Me
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lalitkaushal007&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff)
 
-| Channel | Information |
-|---------|-------------|
-| 📧 **Email** | baba231216@gmail.com |
-| 📱 **Phone** | +91 9120602649 |
-| 🔗 **LinkedIn** | [linkedin.com/in/lalit-kaushal-7862501b5](https://linkedin.com/in/lalit-kaushal-7862501b5) |
-| 💻 **GitHub** | [github.com/lalitkaushal007](https://github.com/lalitkaushal007) |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkaushal007&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lalitkaushal007&theme=dark&hide_border=true&background=0d1117)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 📧 **Email** | [baba231216@gmail.com](mailto:baba231216@gmail.com) |
+| 📱 **Phone** | [+91 9120602649](tel:+919120602649) |
+| 🔗 **LinkedIn** | [lalit-kaushal-7862501b5](https://linkedin.com/in/lalit-kaushal-7862501b5) |
+| 💻 **GitHub** | [lalitkaushal007](https://github.com/lalitkaushal007) |
 | 🌐 **Portfolio** | [lks-portfolio-five.vercel.app](https://lks-portfolio-five.vercel.app/) |
 
-### Preferred Communication
-
-- **Email:** Fast response (within 24 hours)
-- **Phone:** Available on weekdays, 9 AM - 9 PM IST
-- **LinkedIn:** Direct messages preferred for recruitment
-- **WhatsApp:** Available after initial contact
-
 </div>
 
 ---
 
-## 🎯 ROLE PREFERENCES
+## 🎯 What I'm Looking For
 
-<table align="center">
-<tr>
-  <td>
-    <b>Ideal Roles</b>
-    <hr/>
-    • Backend Developer (Senior)<br/>
-    • Full-Stack .NET Developer<br/>
-    • Software Engineer (C#/ASP.NET)<br/>
-    • Database Specialist<br/>
-    • System Architect<br/>
-    • Technical Lead
-  </td>
-  <td>
-    <b>Preferred Industries</b>
-    <hr/>
-    • FinTech<br/>
-    • Telecom/Telecom API<br/>
-    • SaaS Platforms<br/>
-    • Enterprise Software<br/>
-    • Device Management<br/>
-    • E-Commerce
-  </td>
-  <td>
-    <b>Desired Benefits</b>
-    <hr/>
-    • Competitive Compensation<br/>
-    • Remote/Hybrid Options<br/>
-    • Growth Opportunities<br/>
-    • Technical Challenges<br/>
-    • Learning Environment<br/>
-    • Work-Life Balance
-  </td>
-</tr>
-</table>
-
----
-
-## 🚀 QUICK HIRING CHECKLIST
-
-- ✅ 3+ Years Production Experience
-- ✅ Expert in .NET & C#
-- ✅ Database Optimization Specialist
-- ✅ REST API Design & Implementation
-- ✅ 99.9% Production Uptime Record
-- ✅ 6+ Systems Successfully Deployed
-- ✅ 300+ Competitive Programming Problems
-- ✅ 5-Star HackerRank Rating
-- ✅ Multiple Industry Certifications
-- ✅ Immediate Availability
-- ✅ Remote Work Ready
-- ✅ Team Player & Communicator
+- 🚀 **Roles:** Senior Backend Developer, .NET Specialist, System Architect, Technical Lead
+- 🏢 **Industries:** FinTech, Telecom, SaaS, Enterprise Software, E-Commerce
+- 💼 **Work Type:** Full-Time / Remote / Hybrid
+- 🌍 **Location:** Remote-friendly (Based in India, IST timezone)
+- 📍 **Availability:** Immediate
 
 ---
 
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║        📢 ACTIVELY SEEKING NEW OPPORTUNITIES 📢               ║
-║                                                               ║
-║     I'm ready to contribute my expertise to your team         ║
-║     and help scale your technical infrastructure.             ║
-║                                                               ║
-║          Let's build something great together! 🚀             ║
-║                                                               ║
-║                Contact: baba231216@gmail.com                  ║
-║                Phone: +91 9120602649                          ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║        🚀 Let's Build Something Great Together! 🚀        ║
+║                                                           ║
+║    I'm passionate about creating scalable systems        ║
+║    that solve real-world problems with elegance         ║
+║    and performance excellence.                           ║
+║                                                           ║
+║              Contact me for opportunities:               ║
+║          📧 baba231216@gmail.com                         ║
+║          📱 +91 9120602649                               ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
 </div>
-
----
-
-## 📈 GitHub & Social Presence
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lalitkaushal007&show_icons=true&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lalitkaushal007&theme=dark&hide_border=true)
 
 ---
 
 <div align="center">
 
 **Last Updated:** October 7, 2026  
-**Profile Version:** Recruiter-Optimized Edition v1.0  
-**Status:** 🟢 ACTIVELY HIRING  
+**Profile Version:** Professional Edition v2.0  
 
-![Profile Views](https://komarev.com/ghpvc/?username=lalitkaushal007&label=Profile%20Views&color=FF6B35&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=lalitkaushal007&label=Profile%20Views&color=00D4FF&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/lalitkaushal007?style=flat-square&color=00D4FF)
 
 </div>
